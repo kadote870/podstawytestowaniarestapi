@@ -1,2 +1,2 @@
-# podstawytestowaniarestapi
-Podstawy testowania rest api
+# Podstawy Testowania REST API
+Podstawy testowania REST API
