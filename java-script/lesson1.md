@@ -1,4 +1,4 @@
-# Podstawy Java Script - Lekcja 1 — Typy zmiennych
+# Podstawy Java Script — Lekcja 1 — Typy zmiennych
 
 * Java Script pierwotnie został stworzony na potrzeby tworzenia bardziej skomplikowanych stron internetowych, jednak przez prostotę i elastyczność zaczęto znajdywać dla niego również inne zastosowania np. backend — Node.JS. 
 * Z racji tego, że pierwsza wersja JS została stworzona w zaledwie kilka tygodni, to trzeba mieć na uwadze to, że czasem jego logika — a właściwie jej brak —  może czasami zaskakiwać.
