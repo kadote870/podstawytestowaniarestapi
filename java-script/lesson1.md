@@ -1,4 +1,4 @@
-# Podstawy Java Script
+# Podstawy Java Script - Lekcja 1 — Typy zmiennych
 
 * Java Script pierwotnie został stworzony na potrzeby tworzenia bardziej skomplikowanych stron internetowych, jednak przez prostotę i elastyczność zaczęto znajdywać dla niego również inne zastosowania np. backend — Node.JS. 
 * Z racji tego, że pierwsza wersja JS została stworzona w zaledwie kilka tygodni, to trzeba mieć na uwadze to, że czasem jego logika — a właściwie jej brak —  może czasami zaskakiwać.
@@ -224,3 +224,79 @@ console.log(product , price)
 // Wynik: "Rubaszny Krasnolud", 20
 ```
 ## Ćwiczenia z konsolą V — promocja w sklepie — zmienna let 
+
+* Załóżmy sobie scenariusz, że będziemy logować w konsoli status produktu, który trafi na promocję.
+* Oczywiście dostaniemy błąd, jak wcześniej zauważyliśmy zmienna ```const``` jest bardziej eleganckim rozwiązaniem.
+* Nie możemy stworzyć dwóch zmiennych o takiej samej nazwie
+* Przy zmiennej ```var``` nie byłoby takich problemów
+
+<br>
+
+```jsx
+const product = 'Rubaszny Krasnolud'
+const price = 20
+console.log(product, price)
+
+const price = 10
+console.log('Promocja: ', product, price)
+// Wynik: SyntaxError: Identifier 'price' has already been declared
+```
+
+<br>
+
+* Skoro nie może być dwóch zmiennych o tej samej nazwie, to usuńmy deklarację i spróbujmy przypisać zmiennej ```price``` nową wartość 
+* ```price = 10```
+* Otrzymujemy błąd, nie możemy przypisać nowej wartości do zmiennej ```const```
+* Przy zmiennej ```var``` nie byłoby takich problemów
+
+<br>
+
+```jsx
+const product = 'Rubaszny Krasnolud'
+const price = 20
+console.log(product, price)
+
+price = 10
+console.log('Promocja: ', product, price)
+// Wynik: TypeError: Assignment to constant variable.
+```
+
+<br>
+
+* Zastępujemy deklarację ceny z ```const``` na ```let```
+* Teraz program się wykonuje
+* Najpierw logujemy informacje o produkcie
+* Następnie zmienna ```price``` otrzymuje nową wartość
+* Znowu logujemy te same zmienne, ale z nową ceną 
+
+<br>
+
+```jsx
+const product = 'Rubaszny Krasnolud'
+let price = 20
+console.log(product, price)
+// Wynik: "Rubaszny Krasnolud", 20
+
+price = 10
+console.log('Promocja: ', product, price)
+// Wynik: "Promocja", "Rubaszny Krasnolud", 10
+```
+
+<br>
+
+* Żeby utwierdzić się w przekonaniu, że nasz kod działa dobrze to zmieniamy samą nazwę produktu
+* Program działa bez problemów
+* Nowa nazwa produktu wyświetla się poprawnie
+
+<br>
+
+```jsx
+const product = 'Król Kiżuczy'
+let price = 20
+console.log(product, price)
+// Wynik: "Król Kiżuczy", 20
+
+price = 10
+console.log('Promocja: ', product, price)
+// Wynik: "Król Kiżuczy", 20
+```
