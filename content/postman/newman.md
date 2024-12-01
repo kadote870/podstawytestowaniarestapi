@@ -4,10 +4,12 @@
 * [Newman - Git](https://github.com/postmanlabs/newman)
 * [Newman HTML Extra](https://www.npmjs.com/package/newman-reporter-htmlextra)
 
+## run tests
 ```text
-// run tests
 newman run trello.json -e env.json
+```
 
-// run tests and generate htmlextra report
+## run tests and generate htmlextra report
+```text
 newman run trello.json -e env.json -r htmlextra
 ```
