@@ -9,6 +9,7 @@
 * [Postman.com](https://www.postman.com/)
 * [Postman menu Windows](content/postman/settings-menu-windows.md)
 * [Zmienne postman {{$nazwaZmiennej}}](https://learning.postman.com/docs/tests-and-scripts/write-scripts/variables-list/)
+  * [Use case: Keys blacklist tests](content/postman/use-cases/blacklist-tests.md)
 * [Postman Echo](https://learning.postman.com/docs/developer/echo-api/)
 * Newman
   * [Newman](https://learning.postman.com/docs/collections/using-newman-cli/command-line-integration-with-newman/)
