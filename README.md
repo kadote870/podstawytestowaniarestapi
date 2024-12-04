@@ -9,7 +9,8 @@
 * [Postman.com](https://www.postman.com/)
 * [Postman menu Windows](content/postman/settings-menu-windows.md)
 * [Zmienne postman {{$nazwaZmiennej}}](https://learning.postman.com/docs/tests-and-scripts/write-scripts/variables-list/)
-  * [Use case: Keys blacklist tests](content/postman/use-cases/blacklist-tests.md)
+  * [Case study: Keys blacklist tests](content/postman/case-study/blacklist-tests.md)
+  * [Case study: Add test params to API response](content/postman/case-study/add-test-params-to-response.md)
 * [Postman Echo](https://learning.postman.com/docs/developer/echo-api/)
 * Newman
   * [Newman](https://learning.postman.com/docs/collections/using-newman-cli/command-line-integration-with-newman/)
@@ -40,7 +41,7 @@
 ## Trello
 * [Trello API Key and Token](content/trello/generate-key-token.md)
 
-## Examples - Postman:
+## Examples - Postman
 * [Postman code templates](content/postman/templates.md)
 * [Rebel-pl direct products urls creator](content/postman/examples/rebel-pl.md)
 
@@ -50,7 +51,7 @@
 ## Examples - templates
 * [Jira Bug description template](content/templates/regular-templates/bug-desc.md)
 * [Jira test result template](content/templates/regular-templates/test-comment.md)
-* [EICAR - Anti Malware Testfile](content/templates/regular-templates/eicar.md)
+* [EICAR - Anti Malware test file](content/templates/regular-templates/eicar.md)
 * [Git prepare branch with release](content/templates/code-templates/pitagoras.md)
 
 ---

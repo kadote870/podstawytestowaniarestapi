@@ -1,4 +1,4 @@
-# EICAR - Anti Malware Testfile
+# EICAR - Anti Malware Test File
 
 * [www.eicar.org](https://www.eicar.org/download-anti-malware-testfile/)
 

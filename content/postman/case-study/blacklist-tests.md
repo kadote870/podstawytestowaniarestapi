@@ -1,4 +1,4 @@
-# Use case: Keys blacklist tests
+# Case study: Keys blacklist tests
 
 ```mermaid
 stateDiagram-v2
