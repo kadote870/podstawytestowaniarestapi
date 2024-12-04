@@ -28,7 +28,7 @@ Response: 201 OK
 ### 3
 
 * Po drugiej interwencji endpoint nabrał formę json, zwracał w osobnych obiektach numer z bazy danych i numery zasobów
-* Było to przydatne do testów Postman, oraz pre-testów playwright
+* Było to przydatne do testów Postman oraz pretestów playwright
 
 ```json
 [
