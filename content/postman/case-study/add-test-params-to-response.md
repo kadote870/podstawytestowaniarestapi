@@ -16,6 +16,7 @@ Response: 201 OK
 ### 2
 
 * Po pierwszej interwencji endpoint zwracał numery z id bazy danych dla stworzonych zasobów
+
 ```text
 1
 ```
