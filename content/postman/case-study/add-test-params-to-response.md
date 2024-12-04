@@ -71,7 +71,3 @@ Response: 201 OK
   }
 ]
 ```
-
-Wnioski:
-
-
