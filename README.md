@@ -62,4 +62,4 @@
 ### [Java](content/java/java.md)
 
 ---
-###### COPYLEFT, ALL RIGHTS REVERSED – I stole this code, you can steal it too!
+**COPYLEFT, ALL RIGHTS REVERSED – I stole this code, you can steal it too!**
