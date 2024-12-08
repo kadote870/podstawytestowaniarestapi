@@ -1,6 +1,6 @@
 # Newman CLI
 
-* [Newman](https://learning.postman.com/docs/collections/using-newman-cli/command-line-integration-with-newman/)
+* [Newman - Postman page](https://learning.postman.com/docs/collections/using-newman-cli/command-line-integration-with-newman/)
 * [Newman - Git](https://github.com/postmanlabs/newman)
 * [Newman HTML Extra](https://www.npmjs.com/package/newman-reporter-htmlextra)
 

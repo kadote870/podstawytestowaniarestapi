@@ -13,10 +13,10 @@
   * [Case study: Add test params to API response](content/postman/case-study/add-test-params-to-response.md)
   * [Case study: Simple credential test](content/postman/case-study/credentials.md)
 * [Postman Echo](https://learning.postman.com/docs/developer/echo-api/)
-* Newman
-  * [Newman](https://learning.postman.com/docs/collections/using-newman-cli/command-line-integration-with-newman/)
-  * [Newman - Git](https://github.com/postmanlabs/newman)
-  * [Newman HTML Extra](https://www.npmjs.com/package/newman-reporter-htmlextra)
+  * [Newman](content/postman/newman.md)
+    * [Newman - Postman page](https://learning.postman.com/docs/collections/using-newman-cli/command-line-integration-with-newman/)
+    * [Newman - Git](https://github.com/postmanlabs/newman)
+    * [Newman HTML Extra](https://www.npmjs.com/package/newman-reporter-htmlextra)
 
 ## Swagger & Open API
 * [Swagger](https://swagger.io/docs/)
