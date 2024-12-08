@@ -11,6 +11,7 @@
 * [Zmienne postman {{$nazwaZmiennej}}](https://learning.postman.com/docs/tests-and-scripts/write-scripts/variables-list/)
   * [Case study: Keys blacklist tests](content/postman/case-study/blacklist-tests.md)
   * [Case study: Add test params to API response](content/postman/case-study/add-test-params-to-response.md)
+  * [Case study: Simple credential test](content/postman/case-study/credentials.md)
 * [Postman Echo](https://learning.postman.com/docs/developer/echo-api/)
 * Newman
   * [Newman](https://learning.postman.com/docs/collections/using-newman-cli/command-line-integration-with-newman/)
@@ -56,4 +57,9 @@
 
 ---
 ### [Linki](content/links/links.md)
+
+---
 ### [Java](content/java/java.md)
+
+---
+###### COPYLEFT, ALL RIGHTS REVERSED – I stole this code, you can steal it too!
