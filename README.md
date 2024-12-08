@@ -49,17 +49,5 @@
 ## Examples - Java Script
 * [Pitagoras](content/templates/code-templates/pitagoras.md)
 
-## Examples - templates
-* [Jira Bug description template](content/templates/regular-templates/bug-desc.md)
-* [Jira test result template](content/templates/regular-templates/test-comment.md)
-* [EICAR - Anti Malware test file](content/templates/regular-templates/eicar.md)
-* [Git prepare branch with release](content/templates/code-templates/pitagoras.md)
-
----
-### [Linki](content/links/links.md)
-
----
-### [Java](content/java/java.md)
-
 ---
 **COPYLEFT, ALL RIGHTS REVERSED – I stole this code, you can steal it too!**
