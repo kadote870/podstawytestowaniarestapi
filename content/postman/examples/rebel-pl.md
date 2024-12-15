@@ -1,4 +1,4 @@
-# Rebel-pl direct products urls creator
+# Rebel-pl generowanie adresów url
 
 ## Postman
 ```json

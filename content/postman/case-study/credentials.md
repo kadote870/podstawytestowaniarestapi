@@ -41,6 +41,9 @@ Pass: Pass#1
 }
 ```
 
+* Prosty test w imieniu użytkownika Tester1 sprawdzamy, czy może wyświetlić dane swojego zamówienia
+* Autoryzacja działa zgodnie z oczekiwaniem
+
 ## Unauthorized user
 
 * endpoint
@@ -70,6 +73,9 @@ Pass: Pass#2
   "errorMessage": "Order not found"
 }
 ```
+
+* Sprawdzamy, czy można odpytać api o zamówienie Tester1 posługując się danymi Tester2
+* Istotnie jest to, żeby pomimo istniejącego zasobu api zwróciło **404 - Not Found**, a nie np. 401 Unauthorized lub 403 Forbidden
 
 ## Other scenarios
 
