@@ -5,11 +5,13 @@
 * [Newman HTML Extra](https://www.npmjs.com/package/newman-reporter-htmlextra)
 
 ## run tests
+
 ```text
 newman run trello.json -e env.json
 ```
 
 ## run tests and generate htmlextra report
+
 ```text
 newman run trello.json -e env.json -r htmlextra
 ```
