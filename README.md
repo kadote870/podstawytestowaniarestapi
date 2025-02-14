@@ -3,7 +3,10 @@
 ## Lecture 
 * [01](content/lecture/01.md)
 * [02 - Model OSI](content/lecture/02.md)
-* [CERN: http://info.cern.ch - home of the first website](https://info.cern.ch/)
+* [03 - HTML](content/lecture/03.md)
+* [04 - HTTP](content/lecture/04.md)
+* [05 - Od prostych do złożonych usług internetowych](content/lecture/05.md)
+
 
 ## Kody HTTP
 
