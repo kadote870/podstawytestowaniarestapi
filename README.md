@@ -1,5 +1,8 @@
 # [Podstawy Testowania REST API](https://kadote870.github.io/podstawytestowaniarestapi/)
 
+## Lecture 
+* [01](content/lecture/01.md)
+* [02 - Model OSI](content/lecture/02.md)
 * [CERN: http://info.cern.ch - home of the first website](https://info.cern.ch/)
 
 ## Kody HTTP
