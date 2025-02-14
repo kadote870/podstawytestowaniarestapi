@@ -1,12 +1,13 @@
 # [Podstawy Testowania REST API](https://kadote870.github.io/podstawytestowaniarestapi/)
 
 ## Lecture 
-* [01](content/lecture/01.md)
+* [01 - Od Sputnika do WWW](content/lecture/01.md)
 * [02 - Model OSI](content/lecture/02.md)
 * [03 - HTML](content/lecture/03.md)
 * [04 - HTTP](content/lecture/04.md)
 * [05 - Od prostych do złożonych usług internetowych](content/lecture/05.md)
-
+* [06 - API](content/lecture/06.md)
+* [07 - REST API](content/lecture/07.md)
 
 ## Kody HTTP
 
