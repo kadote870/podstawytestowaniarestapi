@@ -9,6 +9,7 @@
 * [06 - API](content/lecture/06-api.md)
 * [07 - REST API](content/lecture/07-rest-api.md)
 * [08 - Podstawowe metody żądań HTTP a CRUD](content/lecture/08-http-crud.md)
+* [09 - Typy uwierzytelniania w protokole HTTP](content/lecture/09-typy-uwierzytelniania.md)
 
 ## Kody HTTP
 

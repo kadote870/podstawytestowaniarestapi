@@ -44,3 +44,4 @@ zasobu.
     <img src="https://javacodehouse.com/assets/img/thumb/PUT-vs-PATCH.svg" height="250">
 </a>
 
+# Następny rozdział: [09 - Typy uwierzytelniania w protokole HTTP](09-typy-uwierzytelniania.md)
