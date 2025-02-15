@@ -66,3 +66,5 @@ społecznościowych i inne usługi internetowe. W przypadku uwierzytelniania OAu
 użytkownicy uwierzytelniają się przy użyciu dostawcy usługi, a dostawca usługi wydaje
 tokeny dostępu autoryzowanym aplikacjom osób trzecich w celu uzyskania dostępu do
 określonych zasobów w imieniu użytkownika.
+
+# Następny rozdział: [10 - Endpoint](10-endpoint.md)
