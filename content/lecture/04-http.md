@@ -12,6 +12,9 @@
 * HTTP korzysta z zestawu metod (takich jak <span style="color:darkred"> **GET, POST,
   PUT, DELETE** </span>), aby wskazać rodzaj żądania składanego
   przez klienta.
+
+> 💡 W rzeczywistości istnieje więcej metod HTTP Request: GET, HEAD, POST, PUT, DELETE, TRACE, OPTIONS, CONNECT
+
 * HTTP wykorzystuje również kody statusu (takie jak 200
   OK, 404 Not Found, 500 Internal Server Error), aby
   wskazać sukces lub niepowodzenie żądania.
@@ -38,4 +41,17 @@
   do serwera jest niezależne i nie polega na wcześniejszych żądaniach. Ułatwia to skalowanie
   aplikacji internetowych i obsługę dużego ruchu.
 
-# Następny rozdział: [05 - Od prostych do złożonych usług internetowych](05.md)
+## HTTP REQUEST (Żądanie HTTP)
+
+<a href="https://personal.ntu.edu.sg/ehchua/programming/webprogramming/HTTP_Basics.html">
+    <img src="https://personal.ntu.edu.sg/ehchua/programming/webprogramming/images/HTTP_RequestMessageExample.png" width="534">
+</a>
+
+
+## HTTP RESPONSE (Odpowiedź HTTP)
+<a href="https://personal.ntu.edu.sg/ehchua/programming/webprogramming/HTTP_Basics.html">
+    <img src="https://personal.ntu.edu.sg/ehchua/programming/webprogramming/images/HTTP_ResponseMessageExample.png" width="534">
+</a>
+
+
+# Następny rozdział: [05 - Od prostych do złożonych usług internetowych](05-od-prostych-do-zlozonych-uslug-internetowych.md)

@@ -23,4 +23,4 @@
     * jest to właśnie API
     * dane są podsyłane fragmentami, są dawkowane
 
-# Następny rozdział: [06 - API](06.md)
+# Następny rozdział: [06 - API](06-api.md)

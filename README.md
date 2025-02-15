@@ -1,14 +1,14 @@
 # [Podstawy Testowania REST API](https://kadote870.github.io/podstawytestowaniarestapi/)
 
 ## Lecture 
-* [01 - Od Sputnika do WWW](content/lecture/01.md)
-* [02 - Model OSI](content/lecture/02.md)
-* [03 - HTML](content/lecture/03.md)
-* [04 - HTTP](content/lecture/04.md)
-* [05 - Od prostych do złożonych usług internetowych](content/lecture/05.md)
-* [06 - API](content/lecture/06.md)
-* [07 - REST API](content/lecture/07.md)
-* [08 - Podstawowe metody żądań HTTP a CRUD](content/lecture/08.md)
+* [01 - Od Sputnika do WWW](content/lecture/01-od-sputnika-do-www.md)
+* [02 - Model OSI](content/lecture/02-model-osi.md)
+* [03 - HTML](content/lecture/03-html.md)
+* [04 - HTTP](content/lecture/04-http.md)
+* [05 - Od prostych do złożonych usług internetowych](content/lecture/05-od-prostych-do-zlozonych-uslug-internetowych.md)
+* [06 - API](content/lecture/06-api.md)
+* [07 - REST API](content/lecture/07-rest-api.md)
+* [08 - Podstawowe metody żądań HTTP a CRUD](content/lecture/08-http-crud.md)
 
 ## Kody HTTP
 

@@ -21,7 +21,9 @@
 * **SOAP API**: Najbardziej ustandaryzowane, oparte na XML, gwarantuje
   wysoki poziom bezpieczeństwa dlatego często jest używane w bankach. 
 * **Hardware API**
+  * _Komunikacja między aparatem w smartfonie a aplikacją_
 * **System API**
+  * _Komunikacja między frameworkiem aplikacji a systemem operacyjnym_
 * **REST API**
 
-# Następny rozdział: [07 - REST API](07.md)
+# Następny rozdział: [07 - REST API](07-rest-api.md)
