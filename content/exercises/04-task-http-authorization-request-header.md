@@ -6,22 +6,22 @@
 <br>
 
 * **Autoryzacja Basic Auth**
-  * https://httpbin.org/basic-auth/user/pass
-  * Username: user 
-  * Password: pass
+  * ```https://httpbin.org/basic-auth/user/pass```
+  * Username: ```user``` 
+  * Password: ```pass```
 
 <br>
 
 * **Autoryzacja Bearer Auth**
-  * https://httpbin.org/bearer
-  * Token: 07032023
+  * ```https://httpbin.org/bearer```
+  * Token: ```07032023```
 
 <br>
 
 * **Autoryzacja Digest Auth**
-  * https://httpbin.org/digest-auth/auth/user/pass
-  * Username: user 
-  * Password: pass
+  * ```https://httpbin.org/digest-auth/auth/user/pass```
+  * Username: ```user``` 
+  * Password: ```pass```
 
 <br>
 

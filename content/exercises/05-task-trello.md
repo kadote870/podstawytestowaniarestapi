@@ -1,6 +1,8 @@
 # Task 05 - Trello
 
 * Utwórz kolekcję o nazwie **Task 05**,
+* Utwórz nową kolekcję środowiska
+> 💡 Przed przystąpieniem do pracy zaplanuj utworzenie zmiennych środowiskowych tak, aby w przyszłości uniknąć problemów przy testowaniu dwóch różnych instancji środowiska testowego np. DEV, QA  i PROD
 * Utwórz API Key oraz Token do Trello ([link](https://trello.com/power-ups/admin)) ([tutorial](../trello/generate-key-token.md))
 * Utwórz zapytanie tworzące nową tablicę o nazwie task_4_board ([Create a Board](https://developer.atlassian.com/cloud/trello/rest/api-group-boards/#api-boards-post))
 * Utwórz zapytanie pobierające listę wszystkich list dla task_4_board ([Get Lists on a Board](https://developer.atlassian.com/cloud/trello/rest/api-group-boards/#api-boards-id-lists-get))
