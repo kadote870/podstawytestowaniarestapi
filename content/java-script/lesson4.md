@@ -97,13 +97,15 @@ console.log('Promocja: ', product, price)
 ```
 
 ```jsx
-const datas = ['pies', 'kot','ryba','rower', {author: 'Mickiewicz Adam', title: 'Pan Tadeusz'}]
+const datas = ['pies', 'kot', 'ryba', 'rower', {author: 'Mickiewicz Adam', title: 'Pan Tadeusz'}]
 
 function get_random_value_from_array(arr) {
-        return arr[Math.floor(Math.random() * arr.length)]
+    return arr[Math.floor(Math.random() * arr.length)]
 }
 
 console.log(get_random_value_from_array(datas))
 // Wynik: Losowy element z tablicy
 console.log(datas[Math.floor(Math.random() * datas.length)])
 ```
+
+# [Powrót do strony głównej](../../README.md)

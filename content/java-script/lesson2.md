@@ -129,3 +129,5 @@ console.log(person.friends[100])
 console.log(person.friends[100].name)
 // Wynik: TypeError: Cannot read properties of undefined (reading 'name')
 ```
+
+# Następny rozdział: [Podstawy Java Script — Lekcja 3 — Nazwy zastrzeżone](lesson3.md)

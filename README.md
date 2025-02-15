@@ -13,7 +13,7 @@
 * [10 - Endpoint](content/lecture/10-endpoint.md)
 * [11 - REST API – komunikacja przez HTTP](content/lecture/11-rest-api-http-komunikacja.md)
 
-## Exercises
+## Exercises - Part I
 * [00 - Wprowadzenie do Postman](content/exercises/00-wprowadzenie-do-postman.md)
 * [Task 01 - Podstawy](content/exercises/01-task-podstawy.md)
 * [Task 02 - Import i eksport kolekcji](content/exercises/02-task-import-export-kolekcji.md)
@@ -27,7 +27,10 @@
 * [Podstawy Java Script — Lekcja 2 — Poruszanie się po obiektach i tablicach](content/java-script/lesson2.md)
 * [Podstawy Java Script — Lekcja 3 — Nazwy zastrzeżone](content/java-script/lesson3.md)
 * [Podstawy Java Script — Lekcja 4 — Funkcje](content/java-script/lesson4.md)
-* [Podstawy Java Script — Postman Special](content/postman/js-in-postman.md)
+
+[//]: # (* [Podstawy Java Script — Postman Special]&#40;content/postman/js-in-postman.md&#41;)
+
+## Exercises - Part II 
 
 ## Kody HTTP
 

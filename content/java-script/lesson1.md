@@ -300,3 +300,5 @@ price = 10
 console.log('Promocja: ', product, price)
 // Wynik: "Król Kiżuczy", 20
 ```
+
+# Następny rozdział: [Podstawy Java Script — Lekcja 2 — Poruszanie się po obiektach i tablicach](lesson2.md)
