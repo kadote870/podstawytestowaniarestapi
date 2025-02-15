@@ -31,9 +31,11 @@
 [//]: # (* [Podstawy Java Script — Postman Special]&#40;content/postman/js-in-postman.md&#41;)
 
 ## Exercises - Part II 
-* [Task 07 - CRUDv2](content/exercises/07-task-crudv2.md)
+* [Task 07 - CRUDv2](content/exercises/07-task-crud-v2.md)
 * [Task 08 - Postman dynamic Variables](content/exercises/08-task-postman-variables.md)
 * [Task 09 - Postman code Snippets](content/exercises/09-task-postman-code-snippets.md)
+* [Task 10 - Trello v2](content/exercises/10-task-trello-v2.md)
+* [Task 11 - Newman CLI](content/exercises/11-task-newman-cli.md)
 
 ## Kody HTTP
 
