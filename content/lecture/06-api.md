@@ -1,12 +1,8 @@
 # 06 - o API
 
 ## Application Programming Interface
-<a href="https://www.shutterstock.com/">
-    <img src="https://www.shutterstock.com/image-photo/lively-cafe-filled-colorful-artwork-600w-2526917745.jpg" height="250">
-</a>
-<a href="https://www.shutterstock.com/">
-    <img src="https://www.shutterstock.com/image-photo/young-librarian-standing-books-library-600w-2321290533.jpg" height="250">
-</a>
+<a><img src="assets/06-restaurant.png" height="300"></a>
+<a><img src="assets/06-library.png" height="300"></a>
 
 <br>
 

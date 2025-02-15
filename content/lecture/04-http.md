@@ -91,23 +91,24 @@ aplikacji internetowych i obsługę dużego ruchu.
 
 > * 100 Continue: Serwer otrzymał nagłówki żądania i klient powinien kontynuować wysyłanie ciała żądania.
 
-**2xx: Success (żądanie zostało pomyślnie otrzymane, zrozumiane i zaakceptowane):**
+
+**<span style="color:green">2xx: Success</span> (żądanie zostało pomyślnie otrzymane, zrozumiane i zaakceptowane):**
 
 > * 200 OK: Serwer pomyślnie przetworzył żądanie.
 > * 204 No Content: Serwer pomyślnie przetworzył żądanie, ale nie ma ciała odpowiedzi do zwrócenia.
 
-3xx: Redirection (wymagane jest podjęcie dalszych działań w celu ukończenia żądania)
+<span style="color:orange">3xx: Redirection</span> (wymagane jest podjęcie dalszych działań w celu ukończenia żądania)
 > * 301 Moved Permanently: Żądany zasób został trwale przeniesiony na nowe miejsce.
 > * 302 Found: Żądany zasób został tymczasowo przeniesiony na nowe miejsce, przyszłe żądania powinny używać nowego
     adresu
     URL.
 
-**4xx: Client Error (żądanie zawiera błędną składnię lub nie można go zrealizować):**
+**<span style="color:red">4xx: Client Error</span> (żądanie zawiera błędną składnię lub nie można go zrealizować):**
 > * 400 Bad Request: Żądanie nie mogło zostać zrozumiane lub brakowało wymaganych parametrów.
 > * 404 Not Found: Żądany zasób nie został odnaleziony na serwerze.
 > * 💡 uwaga na kod 418
 
-**5xx: Server Error (serwer nie był w stanie spełnić pozornie poprawnego żądania)**
+**<span style="color:blue">5xx: Server Error</span> (serwer nie był w stanie spełnić pozornie poprawnego żądania)**
 > * 500 Internal Server Error: Serwer napotkał nieoczekiwany błąd uniemożliwiający realizację żądania.
 > * 503 Service Unavailable: Serwer jest obecnie niezdolny do obsłużenia żądania z powodu tymczasowego przeciążenia lub
     konserwacji.
