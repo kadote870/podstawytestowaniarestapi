@@ -8,6 +8,7 @@
 * [05 - Od prostych do złożonych usług internetowych](content/lecture/05.md)
 * [06 - API](content/lecture/06.md)
 * [07 - REST API](content/lecture/07.md)
+* [08 - Podstawowe metody żądań HTTP a CRUD](content/lecture/08.md)
 
 ## Kody HTTP
 
