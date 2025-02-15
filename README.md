@@ -16,6 +16,10 @@
 ## Exercises
 * [00 - Wprowadzenie do Postman](content/exercises/00-wprowadzenie-do-postman.md)
 * [Task 01 - Podstawy](content/exercises/01-task-podstawy.md)
+* [Task 02 - Import i eksport kolekcji](content/exercises/02-task-import-export-kolekcji.md)
+* [Task 03 - CRUD](content/exercises/03-task-crud.md)
+* [Task 04 - HTTP Authorization request header](content/exercises/04-task-http-authorization-request-header.md)
+* [Task 05 - Trello](content/exercises/05-task-trello.md)
 
 ## Kody HTTP
 
@@ -24,11 +28,6 @@
 * [Kody HTTP — http.cat](https://http.cat/)
 
 ## [Postman](content/postman/postman.md)
-
-## Swagger & Open API
-
-* [Swagger](https://swagger.io/docs/)
-* [Petstore](https://petstore.swagger.io/)
 
 ## Podstawy Java Script
 
