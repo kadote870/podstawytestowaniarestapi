@@ -1,6 +1,7 @@
 # [Podstawy Testowania REST API](https://kadote870.github.io/podstawytestowaniarestapi/)
 
-## Lecture 
+## Lecture
+
 * [01 - Od Sputnika do WWW](content/lecture/01-od-sputnika-do-www.md)
 * [02 - Model OSI](content/lecture/02-model-osi.md)
 * [03 - HTML](content/lecture/03-html.md)
@@ -14,6 +15,7 @@
 * [11 - REST API – komunikacja przez HTTP](content/lecture/11-rest-api-http-komunikacja.md)
 
 ## Exercises - Part I
+
 * [00 - Wprowadzenie do Postman](content/exercises/00-wprowadzenie-do-postman.md)
 * [Task 01 - Podstawy](content/exercises/01-task-podstawy.md)
 * [Task 02 - Import i eksport kolekcji](content/exercises/02-task-import-export-kolekcji.md)
@@ -23,6 +25,7 @@
 * [Task 06 - Variables](content/exercises/06-task-variables.md)
 
 ## Podstawy Java Script
+
 * [Podstawy Java Script — Lekcja 1 — Typy zmiennych](content/java-script/lesson1.md)
 * [Podstawy Java Script — Lekcja 2 — Poruszanie się po obiektach i tablicach](content/java-script/lesson2.md)
 * [Podstawy Java Script — Lekcja 3 — Nazwy zastrzeżone](content/java-script/lesson3.md)
@@ -30,7 +33,8 @@
 
 [//]: # (* [Podstawy Java Script — Postman Special]&#40;content/postman/js-in-postman.md&#41;)
 
-## Exercises - Part II 
+## Exercises - Part II
+
 * [Task 07 - CRUDv2](content/exercises/07-task-crud-v2.md)
 * [Task 08 - Postman dynamic Variables](content/exercises/08-task-postman-variables.md)
 * [Task 09 - Postman code Snippets](content/exercises/09-task-postman-code-snippets.md)
@@ -45,8 +49,28 @@
 
 ## [Postman](content/postman/postman.md)
 
+* [Postman.com](https://www.postman.com/)
+* [Postman menu Windows](content/postman/settings-menu-windows.md)
+* [Zmienne postman {{$nazwaZmiennej}}](https://learning.postman.com/docs/tests-and-scripts/write-scripts/variables-list/)
+* [Postman Echo](https://learning.postman.com/docs/developer/echo-api/)
+* [Postman code templates](content/postman/postman-code-templates.md)
+* Newman CLI
+    * [Newman - Postman page](https://learning.postman.com/docs/collections/using-newman-cli/command-line-integration-with-newman/)
+    * [Newman - Git](https://github.com/postmanlabs/newman)
+    * [Newman HTML Extra](https://www.npmjs.com/package/newman-reporter-htmlextra)
 
-<br>
+## Case study
+
+* [Case study: Keys blacklist tests](content/postman/case-study/blacklist-tests.md)
+* [Case study: Add test params to API response](content/postman/case-study/add-test-params-to-response.md)
+* [Case study: Simple credential test](content/postman/case-study/credentials.md)
+* [Case study: Special Chars](content/postman/case-study/special-chars.md)
+
+## Trello
+
+* [Trello API Key and Token](content/trello/generate-key-token.md)
+
+## Other
 
 * [Node.js](https://nodejs.org/en)
 * [npm](https://www.npmjs.com/)
@@ -55,14 +79,6 @@
 * [JavaScript string operations](https://www.w3schools.com/jsref/jsref_length_string.asp)
 * [jsFormatter](https://beautifier.io/)
 * [Type Script](https://www.typescriptlang.org/)
-
-
-## Trello
-
-* [Trello API Key and Token](content/trello/generate-key-token.md)
-
-## Other
-
 * [HTML URL encoding](https://www.w3schools.com/html/html_urlencode.asp)
 * Json Generator
     * [https://json-generator.com/](https://json-generator.com/)
