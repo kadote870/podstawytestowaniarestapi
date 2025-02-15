@@ -49,10 +49,10 @@
 > * 💡 29 października 1969 - dokonano pierwszej transmisji przez sieć arpanet
 
 <a href="https://en.wikipedia.org/wiki/ARPANET">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Arpanet_in_the_1970s.png" height="200">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Arpanet_in_the_1970s.png" height="300">
 </a>
 <a href="https://en.wikipedia.org/wiki/ARPANET">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Buzz_Aldrin%27s_bootprint_on_the_Moon%2C_AS11-40-5877_%2821472308758%29.jpg/1280px-Buzz_Aldrin%27s_bootprint_on_the_Moon%2C_AS11-40-5877_%2821472308758%29.jpg" height="200">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Buzz_Aldrin%27s_bootprint_on_the_Moon%2C_AS11-40-5877_%2821472308758%29.jpg/1280px-Buzz_Aldrin%27s_bootprint_on_the_Moon%2C_AS11-40-5877_%2821472308758%29.jpg" height="300">
 </a>
 
 ## 1990
