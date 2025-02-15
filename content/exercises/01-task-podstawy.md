@@ -24,17 +24,21 @@
 * Utwórz zapytanie pobierające listę wszystkich produktów
 * Utwórz zapytanie pobierające listę wszystkich kategorii produktów
 * Utwórz zapytanie pobierające listę wszystkich produktów, dla których kategoria produktu to “Clothes"
-> 💡 Manipuluj zakresami danych używając 'Query Params' w zakładce Params, to znacznie bezpieczniejsze rozwiązanie niż manipulowanie danymi w polu URL
+
+> 💡 Manipuluj zakresami danych używając 'Query Params' w zakładce Params, to znacznie bezpieczniejsze rozwiązanie niż
+> manipulowanie danymi w polu URL
+
 * Utwórz zapytanie pobierające listę wszystkich produktów, dla których kategoria produktu to “Clothes” a cena to
-* Utwórz zapytanie pobierające listę wszystkich produktów, dla których kategoria produktu to “Clothes” a cena jest pomiędzy
-100 a 500
+* Utwórz zapytanie pobierające listę wszystkich produktów, dla których kategoria produktu to “Clothes” a cena jest
+  pomiędzy
+  100 a 500
 * Utwórz zapytanie pobierające listę pierwszych 10 produktów, dla których kategoria produktu to “Electronics”
 * Utwórz zapytanie pobierające listę kolejnych 10 produktów, dla których kategoria produktu to “Electronics”
 * Utwórz zapytanie pobierające kategorię produktów o id = 4
 * Utwórz zapytanie pobierające produkty dla kategorii produktów o id = 4
-* Utwórz zapytanie pobierające listę pierwszych 3 produktów dla kategorii produktów o id = 4 
-* Utwórz zapytanie pobierające listę kolejnych 3 produktów dla kategorii produktów o id = 4 
+* Utwórz zapytanie pobierające listę pierwszych 3 produktów dla kategorii produktów o id = 4
+* Utwórz zapytanie pobierające listę kolejnych 3 produktów dla kategorii produktów o id = 4
 * Utwórz zapytanie pobierające produkty dla kategorii produktów o id = 4, dla których cena jest pomiędzy 100
-a 500
+  a 500
 
 # Następny rozdział: [Task 02 - Import i eksport kolekcji](02-task-import-export-kolekcji.md)

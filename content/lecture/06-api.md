@@ -1,6 +1,7 @@
 # 06 - o API
 
 ## Application Programming Interface
+
 <a><img src="assets/06-restaurant.png" height="300"></a>
 <a><img src="assets/06-library.png" height="300"></a>
 
@@ -10,12 +11,12 @@
     <img src="https://miroslawmamczur.pl/wp-content/uploads/2023/06/APi-2-1.png">
 </a>
 
-
 ## Jakie są rodzaje API?
+
 * **RCP API**: Zaprojektowane tak, żeby wykonać blok kodu na innym
-  serwerze/kliencie 
+  serwerze/kliencie
 * **SOAP API**: Najbardziej ustandaryzowane, oparte na XML, gwarantuje
-  wysoki poziom bezpieczeństwa dlatego często jest używane w bankach. 
+  wysoki poziom bezpieczeństwa dlatego często jest używane w bankach.
 * **Hardware API**
   > 💡 Komunikacja między aparatem w smartfonie a aplikacją
 * **System API**

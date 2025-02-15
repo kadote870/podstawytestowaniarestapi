@@ -12,7 +12,7 @@
   task_4_board ([Create a Board](https://developer.atlassian.com/cloud/trello/rest/api-group-boards/#api-boards-post))
 
 > * 💡Podczas pracy implemetuj zmienne środowiskowe zamiast prawdziwych tokenów
-> * 💡Sprawdzaj wszystkie tworzone requesty do api pomagając sobie przy użyciu 'Save Response' i 'Path Variable' 
+> * 💡Sprawdzaj wszystkie tworzone requesty do api pomagając sobie przy użyciu 'Save Response' i 'Path Variable'
 
 * Utwórz zapytanie pobierające listę wszystkich list dla
   task_4_board ([Get Lists on a Board](https://developer.atlassian.com/cloud/trello/rest/api-group-boards/#api-boards-id-lists-get))
@@ -28,3 +28,5 @@
   task_4_card ([Delete a Card](https://developer.atlassian.com/cloud/trello/rest/api-group-cards/#api-cards-id-delete))
 * Utwórz zapytanie usuwające
   tablicę ([Delete a Board](https://developer.atlassian.com/cloud/trello/rest/api-group-boards/#api-boards-id-delete))
+
+# Następny rozdział: [Task 06 - Variables](06-task-variables.md)

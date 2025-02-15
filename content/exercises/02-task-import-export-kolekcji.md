@@ -1,9 +1,9 @@
 # Task 02 - Import i eksport kolekcji
 
 * Zrób eksport kolekcji utworzonej w [Task 01](01-task-podstawy.md)
-* Zaimportuj kolekcję 
-  * ```Ctrl+O```
-  * ```Menu > File > Setting > Import```
+* Zaimportuj kolekcję
+    * ```Ctrl+O```
+    * ```Menu > File > Setting > Import```
 * Zapisz zaimportowaną kolekcję jako **Task 02**
 
 <br>
@@ -16,6 +16,7 @@
 <br>
 
 ## Swagger & Open API
+
 * [Swagger](https://swagger.io/docs/)
 * [Petstore](https://petstore.swagger.io/)
 

@@ -10,12 +10,12 @@ użytkownika i hasło, lub za pomocą certyfikatów cyfrowych lub czynników bio
 
 **Autoryzacja (Authorization)**, to z drugiej strony, proces określania czy uwierzytelniony
 użytkownik lub system posiada odpowiednie uprawnienia do dostępu do określonego zasobu
-lub wykonania określonej czynności. 
+lub wykonania określonej czynności.
 
 <br>
 
 Innymi słowy, uwierzytelnienie polega na udowodnieniu, kim jesteś, podczas gdy autoryzacja
-polega na określeniu, co jesteś uprawniony do zrobienia po uwierzytelnieniu. 
+polega na określeniu, co jesteś uprawniony do zrobienia po uwierzytelnieniu.
 
 <br>
 

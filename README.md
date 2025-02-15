@@ -20,6 +20,14 @@
 * [Task 03 - CRUD](content/exercises/03-task-crud.md)
 * [Task 04 - HTTP Authorization request header](content/exercises/04-task-http-authorization-request-header.md)
 * [Task 05 - Trello](content/exercises/05-task-trello.md)
+* [Task 06 - Variables](content/exercises/06-task-variables.md)
+
+## Podstawy Java Script
+* [Podstawy Java Script — Lekcja 1 — Typy zmiennych](content/java-script/lesson1.md)
+* [Podstawy Java Script — Lekcja 2 — Poruszanie się po obiektach i tablicach](content/java-script/lesson2.md)
+* [Podstawy Java Script — Lekcja 3 — Nazwy zastrzeżone](content/java-script/lesson3.md)
+* [Podstawy Java Script — Lekcja 4 — Funkcje](content/java-script/lesson4.md)
+* [Podstawy Java Script — Postman Special](content/postman/js-in-postman.md)
 
 ## Kody HTTP
 
@@ -29,13 +37,6 @@
 
 ## [Postman](content/postman/postman.md)
 
-## Podstawy Java Script
-
-* [Podstawy Java Script — Lekcja 1 — Typy zmiennych](content/java-script/lesson1.md)
-* [Podstawy Java Script — Lekcja 2 — Poruszanie się po obiektach i tablicach](content/java-script/lesson2.md)
-* [Podstawy Java Script — Lekcja 3 — Nazwy zastrzeżone](content/java-script/lesson3.md)
-* [Podstawy Java Script — Lekcja 4 — Funkcje](content/java-script/lesson4.md)
-* [Podstawy Java Script — Postman Special](content/postman/js-in-postman.md)
 
 <br>
 
