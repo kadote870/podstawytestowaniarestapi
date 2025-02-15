@@ -13,3 +13,5 @@
 </a>
 
 ![11-scheme.png](assets/11-scheme.png)
+
+# [Powrót do strony głównej](../../README.md)

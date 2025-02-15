@@ -13,6 +13,10 @@
 * [10 - Endpoint](content/lecture/10-endpoint.md)
 * [11 - REST API – komunikacja przez HTTP](content/lecture/11-rest-api-http-komunikacja.md)
 
+## Exercises
+* [00 - Wprowadzenie do Postman](content/exercises/00-wprowadzenie-do-postman.md)
+* [Task 01 - Podstawy](content/exercises/01-task-podstawy.md)
+
 ## Kody HTTP
 
 * [Kody HTTP — w3schools.com](https://www.w3schools.com/tags/ref_httpmessages.asp)
@@ -44,11 +48,6 @@
 * [jsFormatter](https://beautifier.io/)
 * [Type Script](https://www.typescriptlang.org/)
 
-## Other Soft
-
-* [jMeter](https://jmeter.apache.org/)
-* [Bruno](https://www.usebruno.com/)
-* [Hoppscotch (Postwoman)](https://hoppscotch.io/)
 
 ## Trello
 

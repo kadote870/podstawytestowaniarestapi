@@ -3,7 +3,7 @@
 * REST API to nie jest osobna technologia, tylko styl architektury
 * Bazuje na HTTP
 
-## 6 ZASAD
+## 6 Zasad projektowania REST API
 
 ### 1 
 * Interfejs powinien zapewniać ustandaryzowaną komunikację między klientem a serwerem 
@@ -40,11 +40,11 @@ Content-Type: application/json
 > 4. API wysyła na serwer zapytanie z nagłówkiem  ```ETag: "xyz123"```
 > 5. Serwer sprawdza, czy dane się zmieniły
 > 
-> 💡 DANE SIĘ **NIE** ZMIENIŁY:
+> 💡 WARIANT 1: DANE SIĘ **NIE** ZMIENIŁY:
 > * Serwer odpowiada ```304 Not Modified``` (bez treści, oszczędność transferu). 
 > * Przeglądarka korzysta z lokalnej kopii danych
 > 
-> 💡 DANE SIĘ ZMIENIŁY:
+> 💡 WARIANT 2: DANE SIĘ ZMIENIŁY:
 > * Przeglądarka wykonuje nowe zapytanie i pobiera dane
 
 
