@@ -47,7 +47,7 @@
 * [Kody HTTP — developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 * [Kody HTTP — http.cat](https://http.cat/)
 
-## [Postman](content/postman/postman.md)
+## Postman
 
 * [Postman.com](https://www.postman.com/)
 * [Postman menu Windows](content/postman/settings-menu-windows.md)
