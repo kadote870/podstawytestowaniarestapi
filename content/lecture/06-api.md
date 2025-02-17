@@ -2,8 +2,8 @@
 
 ## Application Programming Interface
 
-<a><img src="_assets/06-restaurant.png" height="300"></a>
-<a><img src="_assets/06-library.png" height="300"></a>
+<img src="_assets/06-restaurant.png" height="300">
+<img src="_assets/06-library.png" height="300">
 
 <br>
 
