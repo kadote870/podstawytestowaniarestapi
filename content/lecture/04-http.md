@@ -44,13 +44,13 @@ aplikacji internetowych i obsługę dużego ruchu.
 ## HTTP REQUEST (Żądanie HTTP)
 
 <a href="https://personal.ntu.edu.sg/ehchua/programming/webprogramming/HTTP_Basics.html">
-    <img src="https://personal.ntu.edu.sg/ehchua/programming/webprogramming/images/HTTP_RequestMessageExample.png" width="534">
+    <img src="https://personal.ntu.edu.sg/ehchua/programming/webprogramming/images/HTTP_RequestMessageExample.png">
 </a>
 
 ## HTTP RESPONSE (Odpowiedź HTTP)
 
 <a href="https://personal.ntu.edu.sg/ehchua/programming/webprogramming/HTTP_Basics.html">
-    <img src="https://personal.ntu.edu.sg/ehchua/programming/webprogramming/images/HTTP_ResponseMessageExample.png" width="534">
+    <img src="https://personal.ntu.edu.sg/ehchua/programming/webprogramming/images/HTTP_ResponseMessageExample.png">
 </a>
 
 ## HTTP HEADERS (Nagłówki HTTP)
