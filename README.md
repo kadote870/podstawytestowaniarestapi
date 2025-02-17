@@ -1,6 +1,6 @@
 # [Podstawy Testowania REST API](https://kadote870.github.io/podstawytestowaniarestapi/)
 
-## Lecture
+## 🎓 Lecture
 
 * [01 - Od Sputnika do WWW](content/lecture/01-od-sputnika-do-www.md)
 * [02 - Model OSI](content/lecture/02-model-osi.md)
@@ -14,7 +14,7 @@
 * [10 - Endpoint](content/lecture/10-endpoint.md)
 * [11 - REST API – komunikacja przez HTTP](content/lecture/11-rest-api-http-komunikacja.md)
 
-## Exercises - Part I
+## 🧑‍💻 Exercises - Part I
 
 * [00 - Wprowadzenie do Postman](content/exercises/00-wprowadzenie-do-postman.md)
 * [Task 01 - Podstawy](content/exercises/01-task-podstawy.md)
@@ -24,7 +24,7 @@
 * [Task 05 - Trello](content/exercises/05-task-trello.md)
 * [Task 06 - Variables](content/exercises/06-task-variables.md)
 
-## Podstawy Java Script
+## 💻 Podstawy Java Script
 
 * [Podstawy Java Script — Lekcja 1 — Typy zmiennych](content/java-script/lesson1.md)
 * [Podstawy Java Script — Lekcja 2 — Poruszanie się po obiektach i tablicach](content/java-script/lesson2.md)
@@ -33,7 +33,7 @@
 
 [//]: # (* [Podstawy Java Script — Postman Special]&#40;content/postman/js-in-postman.md&#41;)
 
-## Exercises - Part II
+## 📝 Exercises - Part II
 
 * [Task 07 - CRUDv2](content/exercises/07-task-crud-v2.md)
 * [Task 08 - Postman dynamic Variables](content/exercises/08-task-postman-variables.md)
@@ -41,14 +41,14 @@
 * [Task 10 - Trello v2](content/exercises/10-task-trello-v2.md)
 * [Task 11 - Newman CLI](content/exercises/11-task-newman-cli.md)
 
-## Kody HTTP
+## 🌐 Kody HTTP
 
 * [Kody HTTP — w3schools.com](https://www.w3schools.com/tags/ref_httpmessages.asp)
 * [Kody HTTP — developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
-* [Kotki HTTP — http.cat](https://http.cat/)
-* [Pieski HTTP — http.dog](https://http.dog/)
+* [Kotki HTTP — http.cat](https://http.cat/) 🐱
+* [Pieski HTTP — http.dog](https://http.dog/) 🐶
 
-## Postman
+## 📬 Postman
 
 * [Postman.com](https://www.postman.com/)
 * [Postman menu Windows](content/postman/settings-menu-windows.md)
@@ -60,18 +60,18 @@
     * [Newman - Git](https://github.com/postmanlabs/newman)
     * [Newman HTML Extra](https://www.npmjs.com/package/newman-reporter-htmlextra)
 
-## Case study
+## 📊 Case study
 
 * [Case study: Keys blacklist tests](content/postman/case-study/blacklist-tests.md)
 * [Case study: Add test params to API response](content/postman/case-study/add-test-params-to-response.md)
 * [Case study: Simple credential test](content/postman/case-study/credentials.md)
 * [Case study: Special Chars](content/postman/case-study/special-chars.md)
 
-## Trello
+## 📋 Trello
 
-* [Trello API Key and Token](content/trello/generate-key-token.md)
+* [Trello API Key and Token](content/trello/generate-key-token.md) 🗝️
 
-## Other
+## 🌐 Other
 
 * [Node.js](https://nodejs.org/en)
 * [npm](https://www.npmjs.com/)
@@ -86,4 +86,4 @@
     * [https://www.jsongenerator.io/](https://www.jsongenerator.io/)
 
 ---
-**COPYLEFT, ALL RIGHTS REVERSED – I stole this code, you can steal it too!**
+**COPYLEFT, ALL RIGHTS REVERSED – I stole this code, you can steal it too!** 😎

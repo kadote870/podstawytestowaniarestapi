@@ -80,8 +80,8 @@ aplikacji internetowych i obsługę dużego ruchu.
 * **Content-Encoding** – Definiuje rodzaj zastosowanej kompresji odpowiedzi.
 * **Location** – Zwraca lokalizację do zasobu. Wykorzystywany jest w przypadku przekierowań lub po utworzeniu nowego
   zasobu na serwerze.
-* **Referer** – Zawiera źródło (URL) pochodzenia zapytania. Zwróć uwagę, że nagłówek nazywa się **Referer**, a nie *
-  *Referrer**! Jest to dość niefortunna **literówka**, która weszła do standardu HTTP.
+* **Referer** – Zawiera źródło (URL) pochodzenia zapytania. Zwróć uwagę, że nagłówek nazywa się **Referer**, a nie 
+**Referrer**! Jest to dość niefortunna **literówka**, która weszła do standardu HTTP.
 * **Origin** – Zawiera domenę pochodzenia zapytania. Wykorzystywane najczęściej przy mechanizmach CORS (Cross Origin
   Resource Sharing).
 
@@ -89,35 +89,34 @@ aplikacji internetowych i obsługę dużego ruchu.
 
 1xx: Informational (żądanie zostało otrzymane i jest przetwarzane):
 
-> * 100 Continue: Serwer otrzymał nagłówki żądania i klient powinien kontynuować wysyłanie ciała żądania.
+> * **100** Continue: Serwer otrzymał nagłówki żądania i klient powinien kontynuować wysyłanie ciała żądania.
 
 
 **<span style="color:green">2xx: Success</span> (żądanie zostało pomyślnie otrzymane, zrozumiane i zaakceptowane):**
 
-> * 200 OK: Serwer pomyślnie przetworzył żądanie.
-> * 204 No Content: Serwer pomyślnie przetworzył żądanie, ale nie ma ciała odpowiedzi do zwrócenia.
+> * **200** OK: Serwer pomyślnie przetworzył żądanie.
+> * **204** No Content: Serwer pomyślnie przetworzył żądanie, ale nie ma ciała odpowiedzi do zwrócenia.
 
 <span style="color:orange">3xx: Redirection</span> (wymagane jest podjęcie dalszych działań w celu ukończenia żądania)
-> * 301 Moved Permanently: Żądany zasób został trwale przeniesiony na nowe miejsce.
-> * 302 Found: Żądany zasób został tymczasowo przeniesiony na nowe miejsce, przyszłe żądania powinny używać nowego
-    adresu
-    URL.
+> * **301** Moved Permanently: Żądany zasób został trwale przeniesiony na nowe miejsce.
+> * **302** Found: Żądany zasób został tymczasowo przeniesiony na nowe miejsce, przyszłe żądania powinny używać nowego
+    adresu URL.
 
 **<span style="color:red">4xx: Client Error</span> (żądanie zawiera błędną składnię lub nie można go zrealizować):**
-> * 400 Bad Request: Żądanie nie mogło zostać zrozumiane lub brakowało wymaganych parametrów.
-> * 404 Not Found: Żądany zasób nie został odnaleziony na serwerze.
-> * 💡 uwaga na kod 418
+> * **400** Bad Request: Żądanie nie mogło zostać zrozumiane lub brakowało wymaganych parametrów.
+> * **404** Not Found: Żądany zasób nie został odnaleziony na serwerze.
+> * uwaga na kod **418** 🫖
 
 **<span style="color:blue">5xx: Server Error</span> (serwer nie był w stanie spełnić pozornie poprawnego żądania)**
-> * 500 Internal Server Error: Serwer napotkał nieoczekiwany błąd uniemożliwiający realizację żądania.
-> * 503 Service Unavailable: Serwer jest obecnie niezdolny do obsłużenia żądania z powodu tymczasowego przeciążenia lub
-    konserwacji.
+> * **500** Internal Server Error: Serwer napotkał nieoczekiwany błąd uniemożliwiający realizację żądania.
+> * **503** Service Unavailable: Serwer jest obecnie niezdolny do obsłużenia żądania z powodu tymczasowego przeciążenia
+    lub konserwacji.
 
 LINKI:
 
 * [Kody HTTP — w3schools.com](https://www.w3schools.com/tags/ref_httpmessages.asp)
 * [Kody HTTP — developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
-* [Kotki HTTP — http.cat](https://http.cat/)
-* [Pieski HTTP — http.dog](https://http.dog/)
+* [Kotki HTTP — http.cat](https://http.cat/) 🐱
+* [Pieski HTTP — http.dog](https://http.dog/) 🐶
 
 ### Następny rozdział: [05 - Od prostych do złożonych usług internetowych](05-od-prostych-do-zlozonych-uslug-internetowych.md)
