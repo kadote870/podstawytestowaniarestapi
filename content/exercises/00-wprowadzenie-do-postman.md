@@ -23,8 +23,7 @@
 * [jMeter](https://jmeter.apache.org/)
 * [Bruno](https://www.usebruno.com/)
 * [Hoppscotch (Postwoman)](https://hoppscotch.io/)
-* [Testerzy.pl — **Mocne
-  ** Alternatywy dla Postmana (październik 2024)](https://testerzy.pl/baza-wiedzy/narzedzia/mocne-alternatywy-dla-postmana)
+* [Testerzy.pl — **Mocne** Alternatywy dla Postmana (październik 2024)](https://testerzy.pl/baza-wiedzy/narzedzia/mocne-alternatywy-dla-postmana)
   🤦🤦🤦 xD
 
 ### Następny rozdział: [01 - Task 1 - Podstawy](01-task-podstawy.md)
