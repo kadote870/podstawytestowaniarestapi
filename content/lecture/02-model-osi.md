@@ -4,4 +4,4 @@
     <img src="https://resource.fs.com/mall/generalImg/TItmbATfnobgYOxyA8mcIznSnZd.png" width="534">
 </a>
 
-# Następny rozdział: [03 - HTML](03-html.md)
+### Następny rozdział: [03 - HTML](03-html.md)

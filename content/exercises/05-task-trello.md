@@ -29,4 +29,4 @@
 * Utwórz zapytanie usuwające
   tablicę ([Delete a Board](https://developer.atlassian.com/cloud/trello/rest/api-group-boards/#api-boards-id-delete))
 
-# Następny rozdział: [Task 06 - Variables](06-task-variables.md)
+### Następny rozdział: [Task 06 - Variables](06-task-variables.md)

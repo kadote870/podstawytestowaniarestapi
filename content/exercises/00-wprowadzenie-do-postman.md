@@ -27,4 +27,4 @@
   ** Alternatywy dla Postmana (październik 2024)](https://testerzy.pl/baza-wiedzy/narzedzia/mocne-alternatywy-dla-postmana)
   🤦🤦🤦 xD
 
-# Następny rozdział: [01 - Task 1 - Podstawy](01-task-podstawy.md)
+### Następny rozdział: [01 - Task 1 - Podstawy](01-task-podstawy.md)

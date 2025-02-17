@@ -12,13 +12,13 @@
 > * 💡 Dodatkowo: 
 >   * Response code
 >   * Response Time
->   * Response Size / Request Size
+>   * Response Size / Reque*st Size
 >   * Network
 > * Inne opcje 
 >   * Save Response
 >   * Save Response to File
 >   * Zakładka Code i opcja curl
-> * 💡 Możliwość tworzenia zespołu
+> * 💡 Możliwość tworzenia zespołu*
 
 * Sprawdź dokumentacje testowego API [Platzi Fake Store API](https://fakeapi.platzi.com/)
 * Utwórz zapytanie pobierające listę wszystkich produktów
@@ -41,4 +41,4 @@
 * Utwórz zapytanie pobierające produkty dla kategorii produktów o id = 4, dla których cena jest pomiędzy 100
   a 500
 
-# Następny rozdział: [Task 02 - Import i eksport kolekcji](02-task-import-export-kolekcji.md)
+### Następny rozdział: [Task 02 - Import i eksport kolekcji](02-task-import-export-kolekcji.md)

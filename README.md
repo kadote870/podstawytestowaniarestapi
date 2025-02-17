@@ -45,7 +45,8 @@
 
 * [Kody HTTP — w3schools.com](https://www.w3schools.com/tags/ref_httpmessages.asp)
 * [Kody HTTP — developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
-* [Kody HTTP — http.cat](https://http.cat/)
+* [Kotki HTTP — http.cat](https://http.cat/)
+* [Pieski HTTP — http.dog](https://http.dog/)
 
 ## Postman
 

@@ -14,4 +14,4 @@
 * Utwórz zapytanie aktualizujące nazwę oraz maila nowego użytkownika
 * Utwórz zapytanie usuwające dodanego wcześniej użytkownika
 
-# Następny rozdział: [Task 04 - HTTP Authorization request header](04-task-http-authorization-request-header.md)
+### Następny rozdział: [Task 04 - HTTP Authorization request header](04-task-http-authorization-request-header.md)
