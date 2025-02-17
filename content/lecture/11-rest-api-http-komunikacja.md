@@ -12,6 +12,6 @@
     <img src="https://voyager.postman.com/illustration/diagram-what-is-an-api-postman-illustration.svg" width="534">
 </a>
 
-![11-scheme.png](_assets/11-scheme.png)
+![11-scheme.png](assets/11-scheme.png)
 
 ### [Powrót do strony głównej](../../README.md)
