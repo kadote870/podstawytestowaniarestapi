@@ -1,5 +1,8 @@
 # Podstawy Java Script — Lekcja 2 — Poruszanie się po obiektach i tablicach
 
+> 💡 Podczas ćwiczeń z postman można użyć [Postman Echo](https://learning.postman.com/docs/developer/echo-api/) -
+```https://postman-echo.com/get```
+
 ## Poruszanie się po obiektach i tablicach — ćwiczenia z logowaniem
 
 <br>
