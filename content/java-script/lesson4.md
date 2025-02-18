@@ -1,7 +1,9 @@
 # # Podstawy Java Script — Lekcja 4 — Funkcje
 
 > 💡 Podczas ćwiczeń z postman można użyć [Postman Echo](https://learning.postman.com/docs/developer/echo-api/) -
-```https://postman-echo.com/get```****
+```https://postman-echo.com/get```
+
+****
 
 ```jsx
 const product = 'Król Kiżuczy'
