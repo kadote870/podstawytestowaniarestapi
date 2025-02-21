@@ -6,6 +6,9 @@
 
 </center>
 
+> * {⚠️Obiekt⚠️}
+> * [⚠️Tablica⚠️]
+
 ```json
 {
   "klucz": "wartość",
@@ -132,20 +135,119 @@
     "name": "Goblin",
     "hp": 7,
     "attack": 5,
-    "defense": 12
+    "defense": 12,
+    "loot": [
+      "Zardzewiały sztylet",
+      "Złoto (5 szt.)"
+    ]
   },
   {
     "name": "Ogr",
     "hp": 30,
     "attack": 12,
-    "defense": 15
+    "defense": 15,
+    "loot": [
+      "Maczuga",
+      "Skórzana torba"
+    ]
   },
   {
     "name": "Smok",
     "hp": 120,
     "attack": 25,
-    "defense": 20
+    "defense": 20,
+    "loot": [
+      "Łuska Smoka",
+      "Złoto (500 szt.)",
+      "Runiczna włócznia"
+    ]
   }
 ]
 ```
+
+> * {⚠️Obiekt⚠️}
+> * [⚠️Tablica⚠️]
+
+```json
+[
+  {
+    "name": "Goblin",
+    "hp": 7,
+    "attack": 5,
+    "defense": 12,
+    "loot": [
+      "Zardzewiały sztylet",
+      "Złoto (5 szt.)"
+    ]
+  },
+  {
+    "name": "Ogr",
+    "hp": 30,
+    "attack": 12,
+    "defense": 15,
+    "loot": [
+      "Maczuga",
+      "Skórzana torba"
+    ]
+  },
+  {
+    "name": "Smok",
+    "hp": 120,
+    "attack": 25,
+    "defense": 20,
+    "loot": [
+      "Łuska Smoka",
+      "Złoto (500 szt.)",
+      "Runiczna włócznia"
+    ]
+  },
+  {
+    "name": "Mikstura Leczenia",
+    "effect": "Przywraca 20 HP",
+    "price": 50
+  },
+  {
+    "name": "Mikstura Many",
+    "effect": "Przywraca 15 punktów many",
+    "price": 40
+  },
+  {
+    "name": "Eliksir Siły",
+    "effect": "Zwiększa siłę o +3 na 1 godzinę",
+    "price": 100
+  },
+  {
+    "name": "Pochodnia",
+    "type": "Oświetlenie",
+    "durability": 5
+  },
+  {
+    "name": "Lina",
+    "type": "Narzędzie",
+    "length": "10m"
+  },
+  {
+    "name": "Magiczny Amulet",
+    "type": "Biżuteria",
+    "effect": "Zwiększa odporność na magię o +5"
+  },
+  {
+    "title": "Księga Ognia",
+    "effect": "Uczy zaklęcia 'Kula Ognia'",
+    "rarity": "Rzadkie"
+  },
+  {
+    "title": "Podręcznik Łucznika",
+    "effect": "Zwiększa celność strzałów o +2",
+    "rarity": "Pospolite"
+  },
+  {
+    "title": "Zakazane Rytuały",
+    "effect": "Otwiera dostęp do czarnej magii",
+    "rarity": "Legendarne"
+  }
+]
+
+```
+
 ### [Powrót do strony głównej](../../README.md)

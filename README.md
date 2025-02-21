@@ -15,7 +15,7 @@
 * [11 - REST API – komunikacja przez HTTP](content/lecture/11-rest-api-http-komunikacja.md)
 * [12 - Arrays & Objects (Tablice i Obiekty)](content/lecture/12-arrays-and-objects.md)
 
-## 🧑‍💻 Exercises - Part I
+## ⚙️ Exercises - Part I
 
 * [00 - Wprowadzenie do Postman](content/exercises/00-wprowadzenie-do-postman.md)
 * [Task 01 - Podstawy](content/exercises/01-task-podstawy.md)
