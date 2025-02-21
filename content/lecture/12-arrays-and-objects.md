@@ -8,6 +8,19 @@
 
 ```json
 {
+  "klucz": "wartość",
+  "key": "value",
+  "keyNumber": 1,
+  "keyBolean": true,
+  "keyString": "string",
+  "keyNull": null,
+  "keyArray": [],
+  "keyObject": {}
+}
+```
+
+```json
+{
   "name": "Thorin",
   "race": "Krasnolud",
   "class": "Wojownik",
