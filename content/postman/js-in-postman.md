@@ -9,8 +9,6 @@ console.log(pm.response)
 console.log(pm.globals)
 console.log(pm.enviorment.name)
 console.log(pm.response.code)
-
-
 ```
 
 ```js

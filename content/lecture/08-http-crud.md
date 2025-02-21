@@ -34,7 +34,7 @@ zasobu danymi przesłanymi w żądaniu.
 | Delete | <span style="color:red">**DELETE**</span>  | DELETE | ```{host}/api/movie/id``` |
 
 <span style="color:blue">**PUT**</span>: Metoda <span style="color:blue">**PUT**</span> służy do
-zastąpienia <span style="color:red">**wszystkich obecnych**</span> reprezentacji docelowego
+zastąpienia <span style="color:red">**wszystkich**</span> reprezentacji docelowego
 zasobu danymi przesłanymi w żądaniu.
 
 **PATCH**: Metoda **PATCH** służy do zastąpienia <span style="color:red">**wybranych parametrów**</span> wybranego

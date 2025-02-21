@@ -13,6 +13,7 @@
 * [09 - Typy uwierzytelniania w protokole HTTP](content/lecture/09-typy-uwierzytelniania.md)
 * [10 - Endpoint](content/lecture/10-endpoint.md)
 * [11 - REST API – komunikacja przez HTTP](content/lecture/11-rest-api-http-komunikacja.md)
+* [12 - Arrays & Objects (Tablice i Obiekty)](content/lecture/12-arrays-and-objects.md)
 
 ## 🧑‍💻 Exercises - Part I
 

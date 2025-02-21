@@ -22,4 +22,17 @@
 
 </center>
 
-### [Powrót do strony głównej](../../README.md)
+```json
+{
+  "klucz": "wartość",
+  "key": "value",
+  "keyNumber": 1,
+  "keyBolean": true,
+  "keyString": "string",
+  "keyNull": null,
+  "keyArray": [],
+  "keyObject": {}
+}
+```
+
+### Następny rozdział: [12 - Arrays & Objects (Tablice i Obiekty)](12-arrays-and-objects.md)

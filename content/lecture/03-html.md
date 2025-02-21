@@ -29,4 +29,5 @@
 ```
 Jak widać, od początku internetu kierunek rozwoju idzie w kierunku rozwiązań low/no-code
 
+* [HTML Editor online](https://www.w3schools.com/html/html_editor.asp)
 ### Następny rozdział: [04 - HTTP](04-http.md)
