@@ -18,7 +18,7 @@
 
 <center>
 
-![11-scheme.png](assets/11-scheme.png)
+<img src="assets/11-scheme.png">
 
 </center>
 
