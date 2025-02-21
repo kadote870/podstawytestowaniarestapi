@@ -26,8 +26,8 @@ tożsamości.
 
 > 💡 Bilet wstępu + Sprawdzenie wejściówki VIP
 
-* **Uwierzytelnienie** = "Jestem tym, za kogo się podaję."
-* **Autoryzacja** = "Mam prawo do tego dostępu."
+* ⚠️**Uwierzytelnienie**⚠️ = "Jestem tym, za kogo się podaję."
+* ⚠️**Autoryzacja**⚠️ = "Mam prawo do tego dostępu."
 
 ## Typy uwierzytelniania w protokole HTTP
 
