@@ -23,4 +23,4 @@
   > 💡 Komunikacja między frameworkiem aplikacji a systemem operacyjnym
 * **REST API**
 
-### Następny rozdział: [07 - REST API](07-rest-api.md)
+### Następny rozdział: [07 - REST API 🌐](07-rest-api.md)

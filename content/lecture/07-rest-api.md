@@ -1,7 +1,20 @@
-# 07 - REST API
+# 07 - REST API 🌐
 
-* REST API to nie jest osobna technologia, tylko styl architektury
+* REST API to nie jest osobna technologia, tylko zbiór zasad projektowania API
 * Bazuje na HTTP
+
+### REST (Representational State Transfer)
+
+1. **Representational (Reprezentacyjny)**
+    * Dane (zasoby) są przesyłane między klientem a serwerem w różnych reprezentacjach (np. JSON, XML, HTML).
+    * Klient żąda zasobu, a serwer zwraca jego reprezentację.
+2. **State (Stan)**
+    * Każda operacja na zasobie może zmieniać jego stan (np. zmiana danych w bazie).
+    * REST jest bezstanowy, co oznacza, że każdy request od klienta musi zawierać wszystkie informacje potrzebne do
+      jego obsługi – serwer nie przechowuje informacji o wcześniejszych żądaniach.
+3. **Transfer (Transfer)**
+    * Dane są przesyłane między klientem a serwerem za pomocą standardowych metod HTTP (GET, POST, PUT, PATCH, DELETE
+      itd.).
 
 ## 6 Zasad projektowania REST API
 
@@ -28,7 +41,7 @@
 > 💡 Np. możemy wielokrotnie wysyłać request o usunięcie tego samego zasobu 🔄
 
 * W zamian klient za każdym razem dostarcza informacje, które umożliwią serwerowi określenie czy dany klient ma
-  dostęp do danych zasobów czy nie.
+  dostęp do danych zasobów, czy nie.
 
 ### #4
 
@@ -67,5 +80,8 @@ dodatkowych akcji.
 
 * Code on demand
 * To możliwość przesłania fragmentu kodu, który będzie wykonany po stronie klienta/serwera
+
+## Warto zobaczyć
+* ➡️ Film: [Stop Calling Your API a "REST API"](https://www.youtube.com/watch?v=0vC4Xt4wqTk)
 
 ### Następny rozdział: [08 - Podstawowe metody żądań HTTP a CRUD](08-http-crud.md)
