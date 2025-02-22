@@ -20,4 +20,4 @@
 * [Swagger](https://swagger.io/docs/)
 * [Petstore](https://petstore.swagger.io/)
 
-### Następny rozdział: [Task 03 - CRUD](03-task-crud.md)
+### ⏭️ Następny rozdział: [Task 03 - CRUD](03-task-crud.md)

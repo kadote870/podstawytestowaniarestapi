@@ -247,7 +247,6 @@
     "rarity": "Legendarne"
   }
 ]
-
 ```
 
-### [Powrót do strony głównej](../../README.md)
+### ⏭️ [Powrót do strony głównej](../../README.md)

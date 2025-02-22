@@ -70,4 +70,4 @@ użytkownicy uwierzytelniają się przy użyciu dostawcy usługi, a dostawca us�
 tokeny dostępu autoryzowanym aplikacjom osób trzecich w celu uzyskania dostępu do
 określonych zasobów w imieniu użytkownika.
 
-### Następny rozdział: [10 - Endpoint](10-endpoint.md)
+### ⏭️ Następny rozdział: [10 - Endpoint](10-endpoint.md)

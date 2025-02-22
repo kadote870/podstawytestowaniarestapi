@@ -22,4 +22,4 @@ newman run trello.json -e env.json
 newman run trello.json -e env.json -r htmlextra
 ```
 
-### [Powrót do strony głównej](../../README.md)
+### ⏭️ [Powrót do strony głównej](../../README.md)

@@ -7,4 +7,4 @@
 > * 💡[Postman code templates](../postman/postman-code-templates.md)
 > * Zwróć uwagę na limit uruchomień **collection runner**
 
-### Następny rozdział: [Task 11 - Newman CLI](11-task-newman-cli.md)
+### ⏭️ Następny rozdział: [Task 11 - Newman CLI](11-task-newman-cli.md)

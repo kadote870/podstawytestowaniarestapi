@@ -67,4 +67,4 @@
 
 * [http://info.cern.ch - home of the first website](https://info.cern.ch/)
 
-### Następny rozdział: [02 - Model OSI](02-model-osi.md)
+### ⏭️ Następny rozdział: [02 - Model OSI](02-model-osi.md)

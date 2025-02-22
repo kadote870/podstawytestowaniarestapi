@@ -5,4 +5,4 @@
 </a>
 </center>
 
-### Następny rozdział: [03 - HTML](03-html.md)
+### ⏭️ Następny rozdział: [03 - HTML](03-html.md)

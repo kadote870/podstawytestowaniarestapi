@@ -25,4 +25,4 @@
 
 ## [Frankenstream](https://kadote870.github.io/my_little_test_helpers/content/movie/frankenstream.html)
 
-### Następny rozdział: [06 - API](06-api.md)
+### ⏭️ Następny rozdział: [06 - API](06-api.md)

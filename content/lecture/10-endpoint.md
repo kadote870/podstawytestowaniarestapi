@@ -35,4 +35,4 @@ mailto:jakas-osoba@wikipedia.org
     <img src="https://static.semrush.com/blog/uploads/media/21/29/2129daab4cd985b608fd9787017c826e/w6T9BTvTaUGbWjGFqBnlyvpuUuZ84Dd0Lnmyf5J3w8h1jfo1IIy7fQxlbVugb1rRg4J-XY1JFl8v6krWYcq7uIPsnWWB8w2R5oK-MWLrELkWoLHWdyXgMoVdgN-ExNOHrBPFkc6lqwKZDsmwj9Ne3BA.webp">
 </a>
 
-### Następny rozdział: [11 - REST API – komunikacja przez HTTP](11-rest-api-http-komunikacja.md)
+### ⏭️ Następny rozdział: [11 - REST API – komunikacja przez HTTP](11-rest-api-http-komunikacja.md)
