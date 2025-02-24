@@ -6,7 +6,7 @@
 
 <center>
 
-![trello](assets/trello-01.png)
+<img src="assets/trello-01.png">
 
 </center>
 
@@ -16,7 +16,7 @@
 
 <center>
 
-![trello](assets/trello-02.png)
+<img src="assets/trello-02.png">
 
 </center>
 
@@ -26,7 +26,7 @@
 
 <center>
 
-![trello](assets/trello-03.png)
+<img src="assets/trello-03.png">
 
 </center>
 
@@ -36,7 +36,7 @@
 
 <center>
 
-![trello](assets/trello-04.png)
+<img src="assets/trello-04.png">
 
 </center>
 
@@ -46,7 +46,7 @@
 
 <center>
 
-![trello](assets/trello-05.png)
+<img src="assets/trello-05.png">
 
 </center>
 
@@ -56,7 +56,7 @@
 
 <center>
 
-![trello](assets/trello-06.png)
+<img src="assets/trello-06.png">
 
 </center>
 
@@ -66,6 +66,6 @@
 
 <center>
 
-![trello](assets/trello-07.png)
+<img src="assets/trello-07.png">
 
 </center>
