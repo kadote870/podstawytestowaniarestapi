@@ -229,8 +229,12 @@ const randomCommonFileType = pm.variables.replaceIn('{{$randomCommonFileType}}')
 const randomCommonFileExt = pm.variables.replaceIn('{{$randomCommonFileExt}}'); // m2v, wav, png
 const randomFilePath = pm.variables.replaceIn('{{$randomFilePath}}'); // /home/programming_chicken.cpio,
 const randomDirectoryPath = pm.variables.replaceIn('{{$randomDirectoryPath}}'); // /usr/bin, /root, /usr/local/bin
-const randomMimeType = pm.variables.replaceIn('{{$randomMimeType}}'); // audio/vnd.vmx.cvsd, application/vnd.groove-identity-message,
+const randomMimeType = pm.variables.replaceIn('{{$randomMimeType}}'); // audio/vnd.vmx.cvsd, application/vnd.groove-identity-message
+```
 
+### Stores
+
+```js
 const randomPrice = pm.variables.replaceIn('{{$randomPrice}}'); // 0.00 and 1000.00	531.55, 488.76, 511.56
 const randomProduct = pm.variables.replaceIn('{{$randomProduct}}'); // Towels, Pizza, Pants
 const randomProductAdjective = pm.variables.replaceIn('{{$randomProductAdjective}}'); // Unbranded, Incredible, Tasty
