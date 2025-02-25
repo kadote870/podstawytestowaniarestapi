@@ -31,8 +31,7 @@
 * [Podstawy Java Script — Lekcja 2 — Poruszanie się po obiektach i tablicach](content/java-script/lesson2.md)
 * [Podstawy Java Script — Lekcja 3 — Nazwy zastrzeżone](content/java-script/lesson3.md)
 * [Podstawy Java Script — Lekcja 4 — Funkcje](content/java-script/lesson4.md)
-
-[//]: # (* [Podstawy Java Script — Postman Special]&#40;content/postman/js-in-postman.md&#41;)
+* [Podstawy Java Script — Lekcja 5 — Postman](content/java-script/lesson5-postman-special.md)
 
 ## 📝 Exercises - Part II
 
