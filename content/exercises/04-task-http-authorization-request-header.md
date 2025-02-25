@@ -45,4 +45,4 @@
 
 * Zabezpiecz loginy i hasła przed ewentualnym wyciekiem
 
-### Następny rozdział: [Task 05 - Trello](05-task-trello.md)
+### ⏭️ Następny rozdział: [Task 05 - Trello](05-task-trello.md)

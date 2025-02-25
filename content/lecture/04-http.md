@@ -119,4 +119,4 @@ LINKI:
 * [Kotki HTTP — http.cat](https://http.cat/) 🐱
 * [Pieski HTTP — http.dog](https://http.dog/) 🐶
 
-### Następny rozdział: [05 - Od prostych do złożonych usług internetowych](05-od-prostych-do-zlozonych-uslug-internetowych.md)
+### ⏭️ Następny rozdział: [05 - Od prostych do złożonych usług internetowych](05-od-prostych-do-zlozonych-uslug-internetowych.md)

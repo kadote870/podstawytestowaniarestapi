@@ -41,4 +41,4 @@
 * Utwórz zapytanie pobierające produkty dla kategorii produktów o id = 4, dla których cena jest pomiędzy 100
   a 500
 
-### Następny rozdział: [Task 02 - Import i eksport kolekcji](02-task-import-export-kolekcji.md)
+### ⏭️ Następny rozdział: [Task 02 - Import i eksport kolekcji](02-task-import-export-kolekcji.md)

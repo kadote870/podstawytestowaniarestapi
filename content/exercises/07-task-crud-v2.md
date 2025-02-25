@@ -5,4 +5,4 @@
 
 > 💡[Postman code templates](../postman/postman-code-templates.md)
 
-### Następny rozdział: [Task 08 - Postman dynamic Variables](08-task-postman-variables.md)
+### ⏭️ Następny rozdział: [Task 08 - Postman dynamic Variables](08-task-postman-variables.md)

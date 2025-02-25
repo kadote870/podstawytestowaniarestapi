@@ -1,38 +1,50 @@
-# 07 - REST API
+# 07 - REST API 🌐
 
-* REST API to nie jest osobna technologia, tylko styl architektury
-* Bazuje na HTTP
+* 👉 REST API to nie jest osobna technologia, tylko zbór zasad projektowania API
+* 👉 Bazuje na protokole HTTP ⚡
 
-## 6 Zasad projektowania REST API
+### REST (Representational State Transfer)
 
-### #1
+1. **Representational (Reprezentacyjny)**
+    * 📦 Dane (zasoby) są przesyłane między klientem a serwerem w różnych reprezentacjach (np. JSON, XML, HTML).
+    * 📤 Klient żąda zasobu, a serwer zwraca jego reprezentację.
+2. **State (Stan)**
+    * 🔄 Każda operacja na zasobie może zmieniać jego stan (np. zmiana danych w bazie).
+    * ❌ REST jest bezstanowy, co oznacza, że każdy request od klienta musi zawierać wszystkie informacje potrzebne do
+      jego obsługi – serwer nie przechowuje informacji o wcześniejszych żądaniach.
+3. **Transfer (Transfer)**
+    * 📡 Dane są przesyłane między klientem a serwerem za pomocą standardowych metod HTTP (<span style="color:green">**GET**</span>, <span style="color:orange">**POST**</span>, <span style="color:blue">**PUT**</span>, **PATCH**, <span style="color:red">**DELETE**</span>itd.).
 
-* Interfejs powinien zapewniać ustandaryzowaną komunikację między klientem a serwerem
-* Projektujemy jeden interfejs odpowiadamy na potrzeby wszystkich aplikacji
+## 🏠 6 Zasad projektowania REST API
 
-### #2
+### #1 🔄 **Spójny interfejs**
 
-* Wyraźny podział między klientem a aplikacją po stronie klienta (front) i serwera (backend)
-* Dzięki temu mogą się niezależnie od siebie rozwijać i zmieniać
+* Interfejs powinien zapewniać **ustandaryzowaną komunikację** między klientem a serwerem.
+* Projektujemy **jeden interfejs**, który odpowiada na potrzeby różnych aplikacji.
 
-### #3
+### #2 ✂️ **Podział na klienta i serwer**
 
-* Każde zapytanie musi posiadać komplet informacji koniecznych do jego poprawnego
-  zakończenia.
+* Wyraźny podział między klientem (frontend) i serwerem (backend).
+* Dzięki temu mogą **rozwijać się niezależnie** i nie wpływać na siebie nawzajem.
 
-> 💡 Np. Za każdym razem musimy wysłać dane autoryzacyjne 🔑
+### #3 🔑 **Bezstanowość**
 
-* Serwer nie przechowuje informacji o stanie klienta (front).
-* Klient nie przechowuje informacji o stanie serwera (backend).
+* Każde zapytanie musi zawierać **komplet informacji** wymaganych do jego obsługi.
 
-> 💡 Np. możemy wielokrotnie wysyłać request o usunięcie tego samego zasobu 🔄
+> 💡 **Przykład**: Za każdym razem musimy wysłać dane autoryzacyjne 🔑
 
-* W zamian klient za każdym razem dostarcza informacje, które umożliwią serwerowi określenie czy dany klient ma
-  dostęp do danych zasobów czy nie.
+* Serwer **nie przechowuje informacji** ❌ o stanie klienta (frontend).
+* Klient **nie przechowuje informacji** ❌ o stanie serwera (backend).
 
-### #4
+> 💡 **Przykład**: Możemy wielokrotnie wysyłać request o usunięcie tego samego zasobu 🔄
 
-W celu zwiększenia wydajności REST API jest cache'owalne.
+✔️ Klient zawsze **przekazuje wszystkie niezbędne informacje**, aby serwer mógł określić, czy użytkownik ma dostęp do
+zasobów.
+
+### #4 ⚡ **Cache'owanie**
+
+* W celu zwiększenia wydajności REST API jest cache'owalne.
+
 > 💡 W procesie testowania REST API (operacje CRUD, asercje itd. nie ma to większego znaczenia) ⚙️
 
 ```text
@@ -55,17 +67,25 @@ Content-Type: application/json
 > 💡 WARIANT 2: DANE SIĘ ZMIENIŁY:
 > * Przeglądarka wykonuje nowe zapytanie i pobiera dane 🔄
 
-### #5
+### #5 🎭 **Ukrywanie wewnętrznych mechanizmów**
 
-Projektowanie API i systemu powinno uwzględniać to, żeby klient nie wiedział, co się dzieje po
-stronie serwera. I może być tak, że serwer, zanim przygotuje odpowiedź, może wykonać kilka
-dodatkowych akcji.
-> * 💡 Ochrona danych i infrastruktury organizacji 🛡️
-> * 💡 Odciążenie urządzenia klienta 🖱️
+✔️ API powinno być projektowane tak, aby **klient nie wiedział, co dzieje się na serwerze**.  
+✔️ Serwer może wykonywać **dodatkowe akcje**, zanim przygotuje odpowiedź.
 
-### #6 (opcjonalna)
+> 💡 **Korzyści:**
+> * 🛡️ **Ochrona danych i infrastruktury organizacji**
+> * 🖱️ **Odciążenie urządzenia klienta**
 
-* Code on demand
-* To możliwość przesłania fragmentu kodu, który będzie wykonany po stronie klienta/serwera
+### #6 🛠️ **Code on Demand (opcjonalnie)**
 
-### Następny rozdział: [08 - Podstawowe metody żądań HTTP a CRUD](08-http-crud.md)
+🔹 Możliwość przesyłania fragmentów kodu, które zostaną wykonane **po stronie klienta lub serwera**.
+
+***
+
+## 🔍 Warto zobaczyć
+
+👉 **Film:** [Stop Calling Your API a "REST API"](https://www.youtube.com/watch?v=0vC4Xt4wqTk)
+
+---
+
+### ⏭️ Następny rozdział: [08 - Podstawowe metody żądań HTTP a CRUD](08-http-crud.md)  
