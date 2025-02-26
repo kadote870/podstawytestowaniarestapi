@@ -2,7 +2,7 @@
 
 * Utwórz nowy **Workspace** w Postman
 * Utwórz nową kolekcję "Task 01"
-* Utwórz i zapisz zapytanie na adres: https://www.postman.com/product/what-is-postman/
+* Utwórz i zapisz zapytanie na adres: ```https://www.postman.com/product/what-is-postman/```
 
 > * 💡 Postman częściowo działa jak przeglądarka internetowa 
 > * 💡 W sekcji response zwróć uwagę na sekcję:

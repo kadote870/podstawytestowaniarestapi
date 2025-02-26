@@ -112,11 +112,13 @@ aplikacji internetowych i obsługę dużego ruchu.
 > * **503** Service Unavailable: Serwer jest obecnie niezdolny do obsłużenia żądania z powodu tymczasowego przeciążenia
     lub konserwacji.
 
-LINKI:
+## 🔍 Warto zobaczyć
 
-* [Kody HTTP — w3schools.com](https://www.w3schools.com/tags/ref_httpmessages.asp)
-* [Kody HTTP — developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
-* [Kotki HTTP — http.cat](https://http.cat/) 🐱
-* [Pieski HTTP — http.dog](https://http.dog/) 🐶
+👉 [Kody HTTP — w3schools.com](https://www.w3schools.com/tags/ref_httpmessages.asp)<br>
+👉 [Kody HTTP — developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)<br>
+👉 [Kotki HTTP — http.cat](https://http.cat/) 🐱<br>
+👉 [Pieski HTTP — http.dog](https://http.dog/) 🐶<br>
+<br>
+👉 [TCP/IP vs. OSI: What’s the Difference Between the Two Models?](https://www.fs.com/blog/tcpip-vs-osi-whats-the-difference-between-the-two-models-1446.html)<br>
 
 ### ⏭️ Następny rozdział: [05 - Od prostych do złożonych usług internetowych](05-od-prostych-do-zlozonych-uslug-internetowych.md)

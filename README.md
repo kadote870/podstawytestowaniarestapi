@@ -27,11 +27,11 @@
 
 ## 💻 Podstawy Java Script
 
-* [Podstawy Java Script — Lekcja 1 — Typy zmiennych](content/java-script/lesson1.md)
-* [Podstawy Java Script — Lekcja 2 — Poruszanie się po obiektach i tablicach](content/java-script/lesson2.md)
-* [Podstawy Java Script — Lekcja 3 — Nazwy zastrzeżone](content/java-script/lesson3.md)
-* [Podstawy Java Script — Lekcja 4 — Funkcje](content/java-script/lesson4.md)
-* [Podstawy Java Script — Lekcja 5 — Postman](content/java-script/lesson5-postman-special.md)
+* [Lekcja 1 - Typy zmiennych](content/java-script/lesson1.md)
+* [Lekcja 2 - Poruszanie się po obiektach i tablicach](content/java-script/lesson2.md)
+* [Lekcja 3 - Nazwy zastrzeżone](content/java-script/lesson3.md)
+* [Lekcja 4 - Funkcje](content/java-script/lesson4.md)
+* [Lekcja 5 - Postman](content/java-script/lesson5-postman-special.md)
 
 ## 📝 Exercises - Part II
 
@@ -43,15 +43,15 @@
 
 ## 🌐 Kody HTTP
 
-* [Kody HTTP — w3schools.com](https://www.w3schools.com/tags/ref_httpmessages.asp)
-* [Kody HTTP — developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
-* [Kotki HTTP — http.cat](https://http.cat/) 🐱
-* [Pieski HTTP — http.dog](https://http.dog/) 🐶
+* [Kody HTTP - w3schools.com](https://www.w3schools.com/tags/ref_httpmessages.asp)
+* [Kody HTTP - developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+* [Kotki HTTP - http.cat](https://http.cat/) 🐱
+* [Pieski HTTP - http.dog](https://http.dog/) 🐶
 
 ## 📬 Postman
 
 * [Postman.com](https://www.postman.com/)
-* [Postman menu Windows](content/postman/settings-menu-windows.md)
+* [Postman settings menu Windows](content/postman/settings-menu-windows.md)
 * [Zmienne postman {{$nazwaZmiennej}}](https://learning.postman.com/docs/tests-and-scripts/write-scripts/variables-list/)
 * [Postman Echo](https://learning.postman.com/docs/developer/echo-api/)
 * [Postman code templates](content/postman/postman-code-templates.md)

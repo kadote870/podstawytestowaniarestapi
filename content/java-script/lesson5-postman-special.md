@@ -1,4 +1,4 @@
-# Podstawy Java Script — Postman Special
+# Podstawy Java Script — Lekcja 5 — Postman Special
 
 ```js
 console.log(pm)
@@ -88,3 +88,5 @@ pm.test("Your test name", function () {
     pm.expect(jsonData.value).to.eql(100);
 });
 ```
+
+### ⏭️ [Powrót do strony głównej](../../README.md)

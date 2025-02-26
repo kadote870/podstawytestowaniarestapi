@@ -113,4 +113,4 @@ console.log(get_random_value_from_array(datas))
 console.log(datas[Math.floor(Math.random() * datas.length)])
 ```
 
-### ⏭️ [Powrót do strony głównej](../../README.md)
+### ⏭️ Następny rozdział: [Podstawy Java Script — Lekcja 5 — Postman Special](lesson5-postman-special.md)

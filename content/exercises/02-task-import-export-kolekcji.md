@@ -2,7 +2,7 @@
 
 * Zrób eksport kolekcji utworzonej w [Task 01](01-task-podstawy.md)
 * Zaimportuj kolekcję
-    * ```Ctrl+O```
+    * Win: ```Ctrl + O``` | Mac: ```⌘ + O```
     * ```Menu > File > Setting > Import```
 * Zapisz zaimportowaną kolekcję jako **Task 02**
 
