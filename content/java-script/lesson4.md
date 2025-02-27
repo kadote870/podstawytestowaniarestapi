@@ -110,6 +110,7 @@ function get_random_value_from_array(arr) {
 
 console.log(get_random_value_from_array(datas))
 // Wynik: Losowy element z tablicy
+
 console.log(datas[Math.floor(Math.random() * datas.length)])
 ```
 
