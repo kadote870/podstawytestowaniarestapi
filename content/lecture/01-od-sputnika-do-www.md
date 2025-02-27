@@ -43,6 +43,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Krant_per_fax_-_Faxed_newspaper_%284193509648%29.jpg" height="200">
 </a>
 
+> 💡 [N. R. Narayana Murthy i Infosys](additional-content/01-narayana-nurthy-infosys.md)
+
 ## 1969
 
 > * 🚀 20 lipca 1969 - lądowanie Apollo 11 na Księżycu 🌕
