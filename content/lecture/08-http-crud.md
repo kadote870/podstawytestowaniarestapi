@@ -1,6 +1,6 @@
 # 08 - Podstawowe metody żądań HTTP a CRUD
 
-<a href="https://miroslawmamczur.pl/czym-jest-api-i-jakie-sa-jego-rodzaje/">
+<a href="https://codestoresolutions.com/web-app-development/crud-apps-for-every-industry-why-it-is-essential/">
     <img src="https://codestoresolutions.com/wp-content/uploads/2023/08/crud.webp" height="250">
 </a>
 
