@@ -11,6 +11,12 @@
 * Do komunikacji pomiędzy klientem a serwerem służy HTTP
 * Z czasem strony internetowe zaczęły być coraz bardziej złożone i skomplikowane (dużo danych)
 * Dawniej przepustowość Internetu była tysiące razy niższa niż na współczesnych światłowodach.
+* Dodatkowo istnieje coś takiego jak **Quota**
+> * Quota przestrzeni dyskowej 
+> * Quota przepustowości sieciowej 
+> * Quota żądań API
+> * Quota czasowa
+> * Quota zasobów procesora
 * Następnym krokiem w ewolucji Internetu było opracowywanie rozwiązań, których celem było „odchudzenie” transferu
   potrzebnego do korzystania z konkretnej strony internetowej
 
