@@ -70,7 +70,7 @@
 * [http://info.cern.ch - home of the first website](https://info.cern.ch/)
 
 <a href="https://www.orange.pl/poradnik/jak-to-sie-zaczelo-czyli-historia-internetu/">
-  <img src="https://www.orange.pl/poradnik/wp-content/uploads/2019/08/historia-internetu-infografika.jpg" height="300">
+  <img src="https://www.orange.pl/poradnik/wp-content/uploads/2019/08/historia-internetu-infografika.jpg">
   </a>
 
 ### ⏭️ Następny rozdział: [02 - Model OSI](02-model-osi.md)
