@@ -1,4 +1,4 @@
-# 01 - Wprowadzenie do Postman
+# Task 00 - Wprowadzenie do Postman
 
 * [Postman.com](https://www.postman.com/)
 * [Postman API Platform plans and pricing](https://www.postman.com/pricing/)

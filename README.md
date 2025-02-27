@@ -17,7 +17,7 @@
 
 ## ⚙️ Exercises - Part I
 
-* [00 - Wprowadzenie do Postman](content/exercises/00-wprowadzenie-do-postman.md)
+* [Task 00 - Wprowadzenie do Postman](content/exercises/00-task-wprowadzenie-do-postman)
 * [Task 01 - Podstawy](content/exercises/01-task-podstawy.md)
 * [Task 02 - Import i eksport kolekcji](content/exercises/02-task-import-export-kolekcji.md)
 * [Task 03 - CRUD](content/exercises/03-task-crud.md)
