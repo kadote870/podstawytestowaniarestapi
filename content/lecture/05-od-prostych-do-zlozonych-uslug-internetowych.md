@@ -9,8 +9,8 @@
   internetowej
 * Wysyłano żądanie do serwera, a serwer wysyłał dane
 * Do komunikacji pomiędzy klientem a serwerem służy HTTP
-* Z czasem strony internetowe zaczęły być coraz bardziej złożone i skomplikowane (dużo danych)
-* Dawniej przepustowość Internetu była tysiące razy niższa niż na współczesnych światłowodach.
+* Z czasem strony internetowe zaczęły być coraz bardziej złożone i skomplikowane (dużo danych, szablony CSS, JavaScript)
+* Dawniej przepustowość Internetu była tysiące razy niższa niż na współczesnych światłowodach
 * Dodatkowo istnieje coś takiego jak **Quota** (limit, przydział, kontyngent)
 
 > * W IT i usługach online – Quota oznacza limit zasobów, np. ilości danych, które można pobrać lub wysłać.

@@ -12,16 +12,16 @@
 | Delete | <span style="color:red">**DELETE**</span>  | DELETE | ```{host}/api/movie/id``` |
 
 <span style="color:green">**GET**</span>: Metoda GET służy do pobrania reprezentacji określonego zasobu. Żądania GET
-powinny służyć tylko do odbierania danych.
+powinny służyć tylko do odbierania danych
 <br><br>
 <span style="color:orange">**POST**</span>: Metoda POST służy do przesłania danych do określonego zasobu, często
 powodując zmianę stanu lub skutkując efektami ubocznymi po stronie serwera, często
-dodaje nowy zasób.
+dodaje nowy zasób
 <br><br>
 <span style="color:blue">**PUT**</span>: Metoda PUT służy do zastąpienia wszystkich obecnych reprezentacji docelowego
-zasobu danymi przesłanymi w żądaniu.
+zasobu danymi przesłanymi w żądaniu
 <br><br>
-<span style="color:red">**DELETE**</span>: Metoda DELETE służy do usuwania określonego zasobu.
+<span style="color:red">**DELETE**</span>: Metoda DELETE służy do usuwania określonego zasobu
 
 ## REST API daje dodatkową możliwość dla operacji update - PATCH
 
@@ -35,10 +35,10 @@ zasobu danymi przesłanymi w żądaniu.
 
 <span style="color:blue">**PUT**</span>: Metoda <span style="color:blue">**PUT**</span> służy do
 zastąpienia <span style="color:red">**wszystkich**</span> reprezentacji docelowego
-zasobu danymi przesłanymi w żądaniu.
+zasobu danymi przesłanymi w żądaniu
 
 **PATCH**: Metoda **PATCH** służy do zastąpienia <span style="color:red">**wybranych parametrów**</span> wybranego
-zasobu.
+zasobu
 
 <a href="https://javacodehouse.com/blog/REST-put-vs-patch/">
     <img src="https://javacodehouse.com/assets/img/thumb/PUT-vs-PATCH.svg">
