@@ -6,8 +6,10 @@
 
 </center>
 
-> * {⚠️Obiekt⚠️}
-> * [⚠️Tablica⚠️]
+# {⚠️Obiekt⚠️}
+# [⚠️Tablica⚠️]
+
+## Przykłady
 
 ```json
 {

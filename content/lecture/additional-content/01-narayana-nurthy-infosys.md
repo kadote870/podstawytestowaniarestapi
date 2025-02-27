@@ -5,8 +5,8 @@
 </a>
 
 - **Infosys** – indyjski gigant IT, zatrudniający dziesiątki tysięcy pracowników 💻.
-- Murthy zakładając firmę w 1981 roku, miał jedynie **250 dolarów** 💵.
-- W tamtych czasach **brak internetu** (ARPANET istniał, ale był ograniczony do instytucji akademickich i wojskowych 🔗).
+- Murthy zakładając firmę w **1981** roku, miał jedynie **250 dolarów** 💵.
+- W tamtych czasach **internet w dzisiejszym rozumieniu nie istniał** (ARPANET istniał, ale był ograniczony do instytucji akademickich i wojskowych 🔗).
 - **Indie miały surowe przepisy dotyczące eksportu technologii**, co utrudniało działalność firm IT ⚖️.
 
 ## Legenda o metodach pracy Infosys 🚀

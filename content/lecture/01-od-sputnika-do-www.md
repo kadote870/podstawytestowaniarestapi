@@ -47,8 +47,8 @@
 
 ## 1969
 
-> * 🚀 20 lipca 1969 - lądowanie Apollo 11 na Księżycu 🌕
-> * 🌐 29 października 1969 - dokonano pierwszej transmisji przez sieć ARPANET 💻
+> * 🚀 20 lipca 1969 - [Lądowanie Apollo 11 na Księżycu](https://apolloinrealtime.org/11/) 🌕
+> * 🌐 29 października 1969 - Dokonano pierwszej transmisji przez sieć ARPANET 💻
 
 <a href="https://en.wikipedia.org/wiki/ARPANET">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Arpanet_in_the_1970s.png" height="300">
