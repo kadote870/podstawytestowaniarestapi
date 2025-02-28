@@ -6,12 +6,12 @@
 ### REST (Representational State Transfer)
 
 1. **Representational (Reprezentacyjny)**
-    * 📦 Dane (zasoby) są przesyłane między klientem a serwerem w różnych reprezentacjach (np. JSON, XML, HTML).
-    * 📤 Klient żąda zasobu, a serwer zwraca jego reprezentację.
+    * 📦 Dane (zasoby) są przesyłane między klientem a serwerem w różnych reprezentacjach (np. JSON, XML, HTML)
+    * 📤 Klient żąda zasobu, a serwer zwraca jego reprezentację
 2. **State (Stan)**
-    * 🔄 Każda operacja na zasobie może zmieniać jego stan (np. zmiana danych w bazie).
+    * 🔄 Każda operacja na zasobie może zmieniać jego stan (np. zmiana danych w bazie)
     * ❌ REST jest bezstanowy, co oznacza, że każdy request od klienta musi zawierać wszystkie informacje potrzebne do
-      jego obsługi – serwer nie przechowuje informacji o wcześniejszych żądaniach.
+      jego obsługi – serwer nie przechowuje informacji o wcześniejszych żądaniach
 3. **Transfer (Transfer)**
     * 📡 Dane są przesyłane między klientem a serwerem za pomocą standardowych metod HTTP (<span style="color:green">**GET**</span>, <span style="color:orange">**POST**</span>, <span style="color:blue">**PUT**</span>, **PATCH**, <span style="color:red">**DELETE**</span> itd.).
 
@@ -19,27 +19,27 @@
 
 ### #1 🔄 **Spójny interfejs**
 
-* Interfejs powinien zapewniać **ustandaryzowaną komunikację** między klientem a serwerem.
-* Projektujemy **jeden interfejs**, który odpowiada na potrzeby różnych aplikacji.
+* Interfejs powinien zapewniać **ustandaryzowaną komunikację** między klientem a serwerem
+* Projektujemy **jeden interfejs**, który odpowiada na potrzeby różnych aplikacji
 
 ### #2 ✂️ **Podział na klienta i serwer**
 
-* Wyraźny podział między klientem (frontend) i serwerem (backend).
-* Dzięki temu mogą **rozwijać się niezależnie** i nie wpływać na siebie nawzajem.
+* Wyraźny podział między klientem (frontend) i serwerem (backend)
+* Dzięki temu mogą **rozwijać się niezależnie** i nie wpływać na siebie nawzajem
 
 ### #3 🔑 **Bezstanowość**
 
-* Każde zapytanie musi zawierać **komplet informacji** wymaganych do jego obsługi.
+* Każde zapytanie musi zawierać **komplet informacji** wymaganych do jego obsługi
 
 > 💡 **Przykład**: Za każdym razem musimy wysłać dane autoryzacyjne 🔑
 
-* Serwer **nie przechowuje informacji** ❌ o stanie klienta (frontend).
-* Klient **nie przechowuje informacji** ❌ o stanie serwera (backend).
+* Serwer **nie przechowuje informacji** ❌ o stanie klienta (frontend)
+* Klient **nie przechowuje informacji** ❌ o stanie serwera (backend)
 
 > 💡 **Przykład**: Możemy wielokrotnie wysyłać request o usunięcie tego samego zasobu 🔄
 
 ✔️ Klient zawsze **przekazuje wszystkie niezbędne informacje**, aby serwer mógł określić, czy użytkownik ma dostęp do
-zasobów.
+zasobów
 
 ### #4 ⚡ **Cache'owanie**
 
@@ -47,8 +47,8 @@ zasobów.
 
 ### #5 🎭 **Ukrywanie wewnętrznych mechanizmów**
 
-✔️ API powinno być projektowane tak, aby **klient nie wiedział, co dzieje się na serwerze**.  
-✔️ Serwer może wykonywać **dodatkowe akcje**, zanim przygotuje odpowiedź.
+✔️ API powinno być projektowane tak, aby **klient nie wiedział, co dzieje się na serwerze**
+✔️ Serwer może wykonywać **dodatkowe akcje**, zanim przygotuje odpowiedź
 
 > 💡 **Korzyści:**
 > * 🛡️ **Ochrona danych i infrastruktury organizacji**
