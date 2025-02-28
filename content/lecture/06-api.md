@@ -15,7 +15,7 @@
 
 * **RCP API**: Zaprojektowane tak, żeby wykonać blok kodu na innym
   serwerze/kliencie
-* **SOAP API**: Najbardziej ustandaryzowane, oparte na XML, gwarantuje
+* [**SOAP API**](additional-content/06-soap-api.md): Najbardziej ustandaryzowane, oparte na XML, gwarantuje
   wysoki poziom bezpieczeństwa dlatego często jest używane w bankach
 * **Hardware API**
   > 💡 Komunikacja między aparatem w smartfonie a aplikacją

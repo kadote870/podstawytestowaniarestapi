@@ -43,10 +43,12 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Krant_per_fax_-_Faxed_newspaper_%284193509648%29.jpg" height="200">
 </a>
 
+> 💡 [N. R. Narayana Murthy i Infosys](additional-content/01-narayana-nurthy-infosys.md)
+
 ## 1969
 
-> * 🚀 20 lipca 1969 - lądowanie Apollo 11 na Księżycu 🌕
-> * 🌐 29 października 1969 - dokonano pierwszej transmisji przez sieć ARPANET 💻
+> * 🚀 20 lipca 1969 - [Lądowanie Apollo 11 na Księżycu](https://apolloinrealtime.org/11/) 🌕
+> * 🌐 29 października 1969 - Dokonano pierwszej transmisji przez sieć ARPANET 💻
 
 <a href="https://en.wikipedia.org/wiki/ARPANET">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Arpanet_in_the_1970s.png" height="300">
@@ -66,5 +68,9 @@
 <br>
 
 * [http://info.cern.ch - home of the first website](https://info.cern.ch/)
+
+<a href="https://www.orange.pl/poradnik/jak-to-sie-zaczelo-czyli-historia-internetu/">
+  <img src="https://www.orange.pl/poradnik/wp-content/uploads/2019/08/historia-internetu-infografika.jpg">
+  </a>
 
 ### ⏭️ Następny rozdział: [02 - Model OSI](02-model-osi.md)
