@@ -9,8 +9,8 @@
   odpowiada żądanym zasobem.
 * HTTP jest protokołem **bezstanowym**, co oznacza, że **każde żądanie jest niezależne** i nie polega na żadnych
   wcześniejszych żądaniach.
-* HTTP korzysta z zestawu metod (takich jak <span style="color:darkred"> **GET, POST,
-  PUT, DELETE** </span>), aby wskazać rodzaj żądania składanego
+* HTTP korzysta z zestawu metod (takich jak <span style="color:green">**GET**</span>, <span style="color:orange">**POST**</span>,
+  <span style="color:blue">**PUT**</span>, <span style="color:red">**DELETE**</span>), aby wskazać rodzaj żądania składanego
   przez klienta.
 
 > 💡 W rzeczywistości istnieje więcej metod HTTP Request: GET, HEAD, POST, PUT, DELETE, TRACE, OPTIONS, CONNECT
