@@ -17,6 +17,8 @@
   serwerze/kliencie
 * [**SOAP API**](additional-content/06-soap-api.md): Najbardziej ustandaryzowane, oparte na XML, gwarantuje
   wysoki poziom bezpieczeństwa dlatego często jest używane w bankach
+* **GraphQL**: (Graph Query Language) Język zapytań oparty o komunikację API, pozwala zapobiec uzyskaniu zbędnych i
+  nadmiarowych danych
 * **Hardware API**
   > 💡 Komunikacja między aparatem w smartfonie a aplikacją
 * **System API**

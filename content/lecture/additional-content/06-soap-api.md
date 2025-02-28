@@ -31,7 +31,6 @@
 - **REST**: Idealne do **wydajnych aplikacji webowych i mobilnych**, gdy zależy Ci na **prostocie** i **skalowalności**.
 
 ```xml
-
 <druzyna_pierscienia>
     <czlonek>
         <imie>Frodo Baggins</imie>

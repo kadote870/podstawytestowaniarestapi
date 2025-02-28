@@ -9,9 +9,7 @@
   odpowiada żądanym zasobem.
 * HTTP jest protokołem **bezstanowym**, co oznacza, że **każde żądanie jest niezależne** i nie polega na żadnych
   wcześniejszych żądaniach.
-* HTTP korzysta z zestawu metod (takich jak <span style="color:green">**GET**</span>, <span style="color:orange">**POST**</span>,
-  <span style="color:blue">**PUT**</span>, <span style="color:red">**DELETE**</span>), aby wskazać rodzaj żądania składanego
-  przez klienta.
+* HTTP korzysta z zestawu metod (takich jak <span style="color:green">**GET**</span>, <span style="color:orange">**POST**</span>,  <span style="color:blue">**PUT**</span>, <span style="color:red">**DELETE**</span>), aby wskazać rodzaj żądania składanego przez klienta.
 
 > 💡 W rzeczywistości istnieje więcej metod HTTP Request: GET, HEAD, POST, PUT, DELETE, TRACE, OPTIONS, CONNECT
 
@@ -87,7 +85,7 @@ aplikacji internetowych i obsługę dużego ruchu.
 
 ## HTTP RESPONSE CODES (Kody odpowiedzi HTTP)
 
-1xx: Informational (żądanie zostało otrzymane i jest przetwarzane):
+**1xx: Informational (żądanie zostało otrzymane i jest przetwarzane):**
 
 > * **100** Continue: Serwer otrzymał nagłówki żądania i klient powinien kontynuować wysyłanie ciała żądania.
 
@@ -97,7 +95,9 @@ aplikacji internetowych i obsługę dużego ruchu.
 > * **200** OK: Serwer pomyślnie przetworzył żądanie.
 > * **204** No Content: Serwer pomyślnie przetworzył żądanie, ale nie ma ciała odpowiedzi do zwrócenia.
 
-<span style="color:orange">3xx: Redirection</span> (wymagane jest podjęcie dalszych działań w celu ukończenia żądania)
+**<span style="color:orange">3xx: Redirection</span>
+(wymagane jest podjęcie dalszych działań w celu ukończenia żądania)**
+
 > * **301** Moved Permanently: Żądany zasób został trwale przeniesiony na nowe miejsce.
 > * **302** Found: Żądany zasób został tymczasowo przeniesiony na nowe miejsce, przyszłe żądania powinny używać nowego
     adresu URL.
