@@ -73,14 +73,15 @@
 
 ## 🌐 Other
 
+* w3schools
+    * [JavaScript Math.random()](https://www.w3schools.com/js/js_random.asp)
+    * [JavaScript string operations](https://www.w3schools.com/jsref/jsref_length_string.asp)
+    * [HTML URL encoding](https://www.w3schools.com/html/html_urlencode.asp)
 * [Node.js](https://nodejs.org/en)
 * [npm](https://www.npmjs.com/)
 * [Chai Docs](https://www.chaijs.com/)
-* [JavaScript Math.random()](https://www.w3schools.com/js/js_random.asp)
-* [JavaScript string operations](https://www.w3schools.com/jsref/jsref_length_string.asp)
 * [jsFormatter](https://beautifier.io/)
 * [Type Script](https://www.typescriptlang.org/)
-* [HTML URL encoding](https://www.w3schools.com/html/html_urlencode.asp)
 * Json Generator
     * [https://json-generator.com/](https://json-generator.com/)
     * [https://www.jsongenerator.io/](https://www.jsongenerator.io/)

@@ -12,7 +12,7 @@
 > * 💡 Dodatkowo: 
 >   * Response code
 >   * Response Time
->   * Response Size / Reque*st Size
+>   * Response Size / Request Size
 >   * Network
 > * Inne opcje 
 >   * Save Response

@@ -16,7 +16,6 @@
 
 ## Przykład:
 
-
 ```text
 HTTP/1.1 200 OK
 Cache-Control: max-age=3600, public
@@ -40,3 +39,5 @@ Content-Type: application/json
 💡 WARIANT 2: DANE SIĘ ZMIENIŁY:
 
 * Przeglądarka wykonuje nowe zapytanie i pobiera dane 🔄
+
+### ⏭️ Powrót do: [07 - REST API 🌐](../07-rest-api.md)
