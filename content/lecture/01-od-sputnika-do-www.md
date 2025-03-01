@@ -6,6 +6,18 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/NATO_vs._Warsaw_%281949-1990%29.svg/1920px-NATO_vs._Warsaw_%281949-1990%29.svg.png" height="300">
 </a>
 
+<br>
+
+<a href="https://en.wikipedia.org/wiki/ENIAC">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Glen_Beck_and_Betty_Snyder_program_the_ENIAC_in_building_328_at_the_Ballistic_Research_Laboratory.jpg" height="300">
+</a>
+
+# 1952 
+
+<a href="https://en.wikipedia.org/wiki/IBM_700/7000_series">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/IBM_Electronic_Data_Processing_Machine_-_GPN-2000-001881.jpg/1920px-IBM_Electronic_Data_Processing_Machine_-_GPN-2000-001881.jpg" height="300">
+</a>
+
 ## 1957 (październik)
 
 <a href="https://en.wikipedia.org/wiki/Kapustin_Yar">
