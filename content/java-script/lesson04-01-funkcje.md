@@ -71,7 +71,7 @@ console.log('Promocja: ', product, price)
 // Wynik: "Król Kiżuczy", 1-100
 ```
 
-## Funkcje wyjaśnienie na przykładzie
+## [Funkcje wyjaśnienie na przykładzie](lesson04-02-funkcje-wyjasnienie.md)
 
 ```jsx
 function random_number(max) {
