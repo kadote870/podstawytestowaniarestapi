@@ -68,3 +68,9 @@ const randomNum1 = Math.floor(Math.random() * 10 + 1);
 // zaokrąglona liczba - zwracana jako string
 const randomNum2 = Math.floor(Math.random() * (30 - 25) + 25).toFixed(2);
 ```
+
+[//]: # (TO DO)
+[//]: # (skrótowiec z zmiennymi postman sie nie wyswietla)
+[//]: # (dodac kody z funkcjami mathrandom)
+[//]: # (random value from array)
+[//]: # (moze jeszcze cos innego przydatnego )

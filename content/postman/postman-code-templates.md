@@ -72,11 +72,11 @@ console.log(b)
 ### Data
 
 ```js
-const uuidV4 = pm.variables.replaceIn('{{$guid}}');
-const timestamp = pm.variables.replaceIn('{{$timestamp}}');
-const soTimestamp = pm.variables.replaceIn('{{$isoTimestamp}}');
-const randomUUID = pm.variables.replaceIn('{{$randomUUID}}');
-const randomAlphaNumeric = pm.variables.replaceIn('{{$randomAlphaNumeric}}');
+const uuidV4 = pm.variables.replaceIn("{{$guid}}");
+const timestamp = pm.variables.replaceIn("{{$timestamp}}");
+const soTimestamp = pm.variables.replaceIn("{{$isoTimestamp}}");
+const randomUUID = pm.variables.replaceIn("{{$randomUUID}}");
+const randomAlphaNumeric = pm.variables.replaceIn("{{$randomAlphaNumeric}}");
 const randomBoolean = pm.variables.replaceIn('{{$randomBoolean}}');
 const randomInt = pm.variables.replaceIn('{{$randomInt}}'); // 1-1000
 const randomColor = pm.variables.replaceIn('{{$randomColor}}');

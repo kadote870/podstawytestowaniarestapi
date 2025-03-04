@@ -71,6 +71,8 @@ console.log('Promocja: ', product, price)
 // Wynik: "Król Kiżuczy", 1-100
 ```
 
+## Funkcje wyjaśnienie na przykładzie
+
 ```jsx
 function random_number(max) {
     return Math.floor(Math.random() * max + 1);
@@ -114,4 +116,4 @@ console.log(get_random_value_from_array(datas))
 console.log(datas[Math.floor(Math.random() * datas.length)])
 ```
 
-### ⏭️ Następny rozdział: [Podstawy Java Script — Lekcja 5 — Postman Special](lesson5-postman-special.md)
+### ⏭️ Następny rozdział: [Podstawy Java Script — Lekcja 5 — Postman Special](lesson05-postman-special.md)

@@ -28,10 +28,10 @@
 ## 💻 Podstawy Java Script
 
 * [Lekcja 1 - Typy zmiennych](content/java-script/lesson01-01.md)
-* [Lekcja 2 - Poruszanie się po obiektach i tablicach](content/java-script/lesson2.md)
-* [Lekcja 3 - Nazwy zastrzeżone](content/java-script/lesson3.md)
-* [Lekcja 4 - Funkcje](content/java-script/lesson4.md)
-* [Lekcja 5 - Postman](content/java-script/lesson5-postman-special.md)
+* [Lekcja 2 - Poruszanie się po obiektach i tablicach](content/java-script/lesson02.md)
+* [Lekcja 3 - Nazwy zastrzeżone](content/java-script/lesson03.md)
+* [Lekcja 4 - Funkcje](content/java-script/lesson04-01-funkcje.md)
+* [Lekcja 5 - Postman](content/java-script/lesson05-postman-special.md)
 
 ## 📝 Exercises - Part II
 

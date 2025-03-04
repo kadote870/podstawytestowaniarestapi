@@ -54,4 +54,4 @@ let function = 'zmienna'
 // Wynik: SyntaxError: Unexpected token 'function'
 ```
 
-### ⏭️ Następny rozdział: [Podstawy Java Script — Lekcja 4 — Funkcje](lesson4.md)
+### ⏭️ Następny rozdział: [Podstawy Java Script — Lekcja 4 — Funkcje](lesson04-01-funkcje.md)
