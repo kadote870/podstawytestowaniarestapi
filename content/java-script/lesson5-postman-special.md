@@ -4,7 +4,13 @@
 console.log(pm)
 // Wynik: {test: "[Function]"}
 ```
-    
+
+```js
+const pm = 'test'
+console.log(pm)
+// Wynik: "test"
+```
+
 ```js
 console.log(pm)
 // Wynik: {test: "[Function]"}
@@ -49,7 +55,6 @@ console.log(pm.enviorment.name)
 // Wynik: your_env_name || undefined
 ```
 
-
 ```js
 const response = pm.response.json()
 
@@ -64,7 +69,6 @@ console.log(response.exampleResponseBodyKey)
 // Wynik: exampleResponseBodyValue
 ```
 
-
 ```js
 const response = pm.response.json()
 
@@ -74,13 +78,11 @@ console.log(pm.globals.get('exampleGlobalVariable'))
 // Wynik: exampleResponseBodyValue
 ```
 
-
 ```js
 pm.test("Status code is 200", function () {
     pm.response.to.have.status(200);
 });
 ```
-
 
 ```js
 pm.test("Your test name", function () {

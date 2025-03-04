@@ -60,6 +60,8 @@ e:[
 */
 ```
 
+## [Arkana szaleństwa w Java Script](lesson01-02.md)
+
 ---
 
 ## Ćwiczenia z konsolą II — zmienne, deklarowanie zmiennych
@@ -212,7 +214,9 @@ console.log(product)
 ```jsx
 const product = 'Rubaszny Krasnolud'
 const price = 20
-console.log(product price)
+console.log(product
+price
+)
 // Wynik: SyntaxError: missing ) after argument list
 ```
 

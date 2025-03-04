@@ -6,6 +6,7 @@
 > 💡 Przed przystąpieniem do pracy zaplanuj utworzenie zmiennych środowiskowych tak, aby w przyszłości uniknąć problemów
 > przy testowaniu dwóch różnych instancji środowiska testowego np. DEV, QA i PROD
 
+* Załóż konto na [Trello](https://trello.com/)
 * Utwórz API Key oraz Token do
   Trello ([link](https://trello.com/power-ups/admin)) ([tutorial](../trello/generate-key-token.md))
 * Utwórz zapytanie tworzące nową tablicę o nazwie

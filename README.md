@@ -27,7 +27,7 @@
 
 ## 💻 Podstawy Java Script
 
-* [Lekcja 1 - Typy zmiennych](content/java-script/lesson1.md)
+* [Lekcja 1 - Typy zmiennych](content/java-script/lesson01-01.md)
 * [Lekcja 2 - Poruszanie się po obiektach i tablicach](content/java-script/lesson2.md)
 * [Lekcja 3 - Nazwy zastrzeżone](content/java-script/lesson3.md)
 * [Lekcja 4 - Funkcje](content/java-script/lesson4.md)
@@ -54,11 +54,15 @@
 * [Postman settings menu Windows](content/postman/settings-menu-windows.md)
 * [Zmienne postman {{$nazwaZmiennej}}](https://learning.postman.com/docs/tests-and-scripts/write-scripts/variables-list/)
 * [Postman Echo](https://learning.postman.com/docs/developer/echo-api/)
-* [Postman code templates](content/postman/postman-code-templates.md)
+
 * Newman CLI
     * [Newman - Postman page](https://learning.postman.com/docs/collections/using-newman-cli/command-line-integration-with-newman/)
     * [Newman - Git](https://github.com/postmanlabs/newman)
     * [Newman HTML Extra](https://www.npmjs.com/package/newman-reporter-htmlextra)
+
+## Code templates
+
+* [Postman code templates](content/postman/postman-code-templates.md)
 
 ## 📊 Case study
 
@@ -69,6 +73,7 @@
 
 ## 📋 Trello
 
+* [Trello](https://trello.com/)
 * [Trello API Key and Token](content/trello/generate-key-token.md) 🗝️
 
 ## 🌐 Other
