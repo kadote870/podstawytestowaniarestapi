@@ -1,7 +1,7 @@
 ## Examples
 * [Rebel-pl generowanie adresów url](../postman/examples/rebel-pl.md)
 * [Zestawy testów zależnie od kodu HTTP](../postman/examples/200-400-response-codes-tests.md)
-* [Using the REST Client VSCode Plugi](https://www.youtube.com/watch?v=RcxvrhQKv8I)
+* [Using the REST Client VSCode Plugin](https://www.youtube.com/watch?v=RcxvrhQKv8I)
 
 ```js
 // UUID random gen
@@ -53,24 +53,8 @@ await page.click([commonSelectors.errorWindow.button.close, commonSelectors.erro
 // Losowy index z tablicy
 const engine = Math.floor(Math.random() * (response.length - 1));
 
-// dice roll
-function dice_roll(dice) {
-        return Math.floor(Math.random() * dice + 1);
-};
-
-// rando number
-export function random_number(min, max) {
-        return Math.floor(Math.random() * (max - min) + min);
-}
-
 // zwykła
 const randomNum1 = Math.floor(Math.random() * 10 + 1);
 // zaokrąglona liczba - zwracana jako string
 const randomNum2 = Math.floor(Math.random() * (30 - 25) + 25).toFixed(2);
 ```
-
-[//]: # (TO DO)
-[//]: # (skrótowiec z zmiennymi postman sie nie wyswietla)
-[//]: # (dodac kody z funkcjami mathrandom)
-[//]: # (random value from array)
-[//]: # (moze jeszcze cos innego przydatnego )
