@@ -1,15 +1,22 @@
 # Podstawy Java Script — Lekcja 5 — Postman Special
 
+* Zmienna ```pm```, są w niej przechowywane informacje dla pojedynczego api request
+
 ```js
 console.log(pm)
 // Wynik: {test: "[Function]"}
 ```
+
+* Problem polega na tym, że można ją nadpisywać w niejasny sposób.
+* Przykład 1
 
 ```js
 const pm = 'test'
 console.log(pm)
 // Wynik: "test"
 ```
+
+* Przykład 2
 
 ```js
 console.log(pm)
@@ -19,6 +26,8 @@ const pm = 'test'
 console.log(pm)
 // Wynik: ReferenceError: Cannot access 'pm' before initialization
 ```
+
+* Przykład 3
 
 ```js
 console.log(pm)
@@ -29,6 +38,8 @@ console.log(pm)
 // Wynik: ReferenceError: Cannot access 'pm' before initialization
 ```
 
+* Przykład 4
+
 ```js
 console.log(pm)
 // Wynik: {test: "[Function]"}
@@ -37,6 +48,8 @@ pm = 'test'
 console.log(pm)
 // Wynik: test
 ```
+
+* Zmienna ```pm``` posiada rozbudowaną strukturę, w której jest przechowywany szeroki zakres **funkcji** i **danych**
 
 ```js
 console.log(pm.response)

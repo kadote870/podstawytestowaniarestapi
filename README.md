@@ -54,7 +54,6 @@
 * [Postman settings menu Windows](content/postman/settings-menu-windows.md)
 * [Zmienne postman {{$nazwaZmiennej}}](https://learning.postman.com/docs/tests-and-scripts/write-scripts/variables-list/)
 * [Postman Echo](https://learning.postman.com/docs/developer/echo-api/)
-
 * Newman CLI
     * [Newman - Postman page](https://learning.postman.com/docs/collections/using-newman-cli/command-line-integration-with-newman/)
     * [Newman - Git](https://github.com/postmanlabs/newman)
@@ -62,7 +61,10 @@
 
 ## Code templates
 
-* [Postman code templates](content/postman/postman-code-templates.md)
+* [Funkcje JavaScript](content/code-templates/functions-js.md)
+* [Funkcje - Operacje na tablicach](content/code-templates/functions-array-operations.md)
+* [Pętle](content/code-templates/loops.md)
+* [Postman code templates](content/code-templates/postman-code-templates.md)
 
 ## 📊 Case study
 

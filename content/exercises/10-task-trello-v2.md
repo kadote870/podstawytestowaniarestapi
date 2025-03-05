@@ -5,7 +5,7 @@
 * Korzystając z postman **dynamic variables** oraz **snippets** napisz skrypty, które będą obsługiwać cały test
 * Uruchom testy korzystając z **collection runner**
 
-> * 💡[Postman code templates](../postman/postman-code-templates.md)
+> * 💡[Postman code templates](../code-templates/postman-code-templates.md)
 > * Zwróć uwagę na limit uruchomień **collection runner**
 
 ### ⏭️ Następny rozdział: [Task 11 - Newman CLI](11-task-newman-cli.md)
