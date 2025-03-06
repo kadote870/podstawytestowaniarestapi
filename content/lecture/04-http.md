@@ -119,6 +119,6 @@ aplikacji internetowych i obsługę dużego ruchu.
 👉 [Kotki HTTP — http.cat](https://http.cat/) 🐱<br>
 👉 [Pieski HTTP — http.dog](https://http.dog/) 🐶<br>
 <br>
-👉 [TCP/IP vs. OSI: What’s the Difference Between the Two Models?](https://www.fs.com/blog/tcpip-vs-osi-whats-the-difference-between-the-two-models-1446.html)<br>
+👉 [In Introduction to HTTP Basics](https://personal.ntu.edu.sg/ehchua/programming/webprogramming/HTTP_Basics.html)
 
 ### ⏭️ Następny rozdział: [05 - Od prostych do złożonych usług internetowych](05-od-prostych-do-zlozonych-uslug-internetowych.md)
