@@ -53,10 +53,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Floppy_disk_2009_G1.jpg/1920px-Floppy_disk_2009_G1.jpg" height="200">
 </a>
 <br>
-<a href="https://en.wikipedia.org/wiki/Floppy_disk">
+<a href="https://en.wikipedia.org/wiki/Fax">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Panasonic_KX-F90.jpg" height="200">
 </a>
-<a href="https://en.wikipedia.org/wiki/Floppy_disk">
+<a href="https://en.wikipedia.org/wiki/Fax">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Krant_per_fax_-_Faxed_newspaper_%284193509648%29.jpg" height="200">
 </a>
 
