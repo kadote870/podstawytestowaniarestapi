@@ -93,30 +93,6 @@ const randomSemver = pm.variables.replaceIn('{{$randomSemver}}'); // version num
 
 ### Names
 
-### Data
-
-```js
-const uuidV4 = pm.variables.replaceIn("{{$guid}}");
-const timestamp = pm.variables.replaceIn("{{$timestamp}}");
-const soTimestamp = pm.variables.replaceIn("{{$isoTimestamp}}");
-const randomUUID = pm.variables.replaceIn("{{$randomUUID}}");
-const randomAlphaNumeric = pm.variables.replaceIn("{{$randomAlphaNumeric}}");
-const randomBoolean = pm.variables.replaceIn('{{$randomBoolean}}');
-const randomInt = pm.variables.replaceIn('{{$randomInt}}'); // 1-1000
-const randomColor = pm.variables.replaceIn('{{$randomColor}}');
-const randomHexColor = pm.variables.replaceIn('{{$randomHexColor}}'); // "#47594a", "#431e48", "#106f21"
-const randomAbbreviation = pm.variables.replaceIn('{{$randomAbbreviation}}'); // SQL, PCI, JSON
-const randomIP = pm.variables.replaceIn('{{$randomIP}}'); // 241.102.234.100, 216.7.27.38
-const randomIPV6 = pm.variables.replaceIn('{{$randomIPV6}}'); // dbe2:7ae6:119b:c161:1560:6dda:3a9b:90a9
-const randomMACAddress = pm.variables.replaceIn('{{$randomMACAddress}}'); // 1f:6e:db:3d:ed:fa
-const randomPassword = pm.variables.replaceIn('{{$randomPassword}}'); // t9iXe7COoDKv8k3, QAzNFQtvR9cg2rq
-const randomUserAgent = pm.variables.replaceIn('{{$randomUserAgent}}'); // Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.9.8; rv:15.6) Gecko/20100101 Firefox/15.6.6
-const randomProtocol = pm.variables.replaceIn('{{$randomProtocol}}'); // "http", "https"
-const randomSemver = pm.variables.replaceIn('{{$randomSemver}}'); // version number 7.0.5, 2.5.8, 6.4.9
-```
-
-### Names
-
 ```js
 const randomFirstName = pm.variables.replaceIn('{{$randomFirstName}}');
 const randomLastName = pm.variables.replaceIn('{{$randomLastName}}');
