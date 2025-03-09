@@ -93,4 +93,4 @@
     * [https://json-generator.com/](https://json-generator.com/)
     * [https://www.jsongenerator.io/](https://www.jsongenerator.io/)
 
-{{ var.element.license }}
+{{ site.data.element.license }}
