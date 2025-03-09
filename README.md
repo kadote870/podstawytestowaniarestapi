@@ -93,5 +93,4 @@
     * [https://json-generator.com/](https://json-generator.com/)
     * [https://www.jsongenerator.io/](https://www.jsongenerator.io/)
 
----
-**COPYLEFT, ALL RIGHTS REVERSED – I stole this code, you can steal it too!** 😎
+{{ var.element.license }}
