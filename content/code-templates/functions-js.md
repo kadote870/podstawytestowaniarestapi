@@ -18,3 +18,5 @@ function random_boolean() {
     return Boolean(Math.round(Math.random()));
 }
 ```
+
+{{ site.data.element.license }}

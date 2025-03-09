@@ -16,3 +16,5 @@
 3. Amerykański zespół przepisywał kod do komputerów i kompilował go 🖥️.
 
 ### ⏭️ Powrót do: [01 - Od Sputnika do WWW](../01-od-sputnika-do-www.md)
+
+{{ site.data.element.license }}

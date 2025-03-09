@@ -30,3 +30,5 @@ Key --> Blacklist
 Blacklist --> Storage
 Storage --> Final_Offer
 ```
+
+{{ site.data.element.license }}

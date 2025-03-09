@@ -353,3 +353,5 @@
 </html>
 
 ```
+
+{{ site.data.element.license }}

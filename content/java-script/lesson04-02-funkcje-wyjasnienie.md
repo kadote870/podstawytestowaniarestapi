@@ -16,3 +16,5 @@ function maszyna_do_mieszania_farby(kolor1, kolor2) {
 ```
 
 ### ⏭️ Następny rozdział: [Podstawy Java Script — Lekcja 5 — Postman Special](lesson04-02-funkcje-wyjasnienie.md)
+
+{{ site.data.element.license }}

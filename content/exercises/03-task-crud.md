@@ -15,3 +15,5 @@
 * Utwórz zapytanie usuwające dodanego wcześniej użytkownika
 
 ### ⏭️ Następny rozdział: [Task 04 - HTTP Authorization request header](04-task-http-authorization-request-header.md)
+
+{{ site.data.element.license }}

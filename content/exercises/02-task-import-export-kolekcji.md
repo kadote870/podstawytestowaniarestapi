@@ -21,3 +21,5 @@
 * [Petstore](https://petstore.swagger.io/)
 
 ### ⏭️ Następny rozdział: [Task 03 - CRUD](03-task-crud.md)
+
+{{ site.data.element.license }}

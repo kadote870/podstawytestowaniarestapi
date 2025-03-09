@@ -170,3 +170,5 @@
 ```
 
 ### ⏭️ Powrót do: [06 - o API](../06-api.md)
+
+{{ site.data.element.license }}

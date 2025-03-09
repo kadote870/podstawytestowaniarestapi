@@ -33,3 +33,5 @@ console.log("4" / 2)
 ```
 
 ### ⏭️ [Podstawy Java Script — Lekcja 1 — Typy zmiennych](lesson01-01.md)
+
+{{ site.data.element.license }}

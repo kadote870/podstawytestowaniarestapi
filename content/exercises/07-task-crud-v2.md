@@ -6,3 +6,5 @@
 > 💡[Postman code templates](../code-templates/postman-code-templates.md)
 
 ### ⏭️ Następny rozdział: [Task 08 - Postman dynamic Variables](08-task-postman-variables.md)
+
+{{ site.data.element.license }}

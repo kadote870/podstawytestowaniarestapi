@@ -17,3 +17,5 @@
 
 * Warto próbować wprowadadzać wartości składające się z niestandardowych znaków, szczególnie gdy dana wartość (klucz), może przyjąć z góry określoną ilość znaków.
 * Niestandardowe znaki mogą zostać rozpoznane lub zapisane przez serwer/bazę danych w nieoczekiwany sposób
+
+{{ site.data.element.license }}

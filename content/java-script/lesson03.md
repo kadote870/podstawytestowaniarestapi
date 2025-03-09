@@ -55,3 +55,5 @@ let function = 'zmienna'
 ```
 
 ### ⏭️ Następny rozdział: [Podstawy Java Script — Lekcja 4 — Funkcje](lesson04-01-funkcje.md)
+
+{{ site.data.element.license }}

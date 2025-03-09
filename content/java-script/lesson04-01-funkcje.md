@@ -117,3 +117,5 @@ console.log(datas[Math.floor(Math.random() * datas.length)])
 ```
 
 ### ⏭️ Następny rozdział: [Podstawy Java Script — Lekcja 5 — Postman Special](lesson05-postman-special.md)
+
+{{ site.data.element.license }}

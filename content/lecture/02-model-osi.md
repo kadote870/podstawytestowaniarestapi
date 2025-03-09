@@ -12,3 +12,5 @@
 * [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman)
 
 ### ⏭️ Następny rozdział: [03 - HTML](03-html.md)
+
+{{ site.data.element.license }}

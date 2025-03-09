@@ -328,3 +328,5 @@ console.log('Promocja: ', product, price)
 ```
 
 ### ⏭️ Następny rozdział: [Podstawy Java Script — Lekcja 2 — Poruszanie się po obiektach i tablicach](lesson02.md)
+
+{{ site.data.element.license }}

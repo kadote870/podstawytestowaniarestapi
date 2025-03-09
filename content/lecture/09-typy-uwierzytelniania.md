@@ -71,3 +71,5 @@ tokeny dostępu autoryzowanym aplikacjom osób trzecich w celu uzyskania dostęp
 określonych zasobów w imieniu użytkownika
 
 ### ⏭️ Następny rozdział: [10 - Endpoint](10-endpoint.md)
+
+{{ site.data.element.license }}

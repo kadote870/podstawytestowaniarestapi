@@ -69,3 +69,5 @@
 <img src="assets/trello-07.png">
 
 </center>
+
+{{ site.data.element.license }}

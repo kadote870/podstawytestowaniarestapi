@@ -29,3 +29,5 @@ while (condition === value) {
     }
 }
 ```
+
+{{ site.data.element.license }}

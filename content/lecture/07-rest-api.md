@@ -66,4 +66,6 @@ zasobów
 
 ---
 
-### ⏭️ Następny rozdział: [08 - Podstawowe metody żądań HTTP a CRUD](08-http-crud.md)  
+### ⏭️ Następny rozdział: [08 - Podstawowe metody żądań HTTP a CRUD](08-http-crud.md)
+
+{{ site.data.element.license }}

@@ -58,3 +58,5 @@ const randomNum1 = Math.floor(Math.random() * 10 + 1);
 // zaokrąglona liczba - zwracana jako string
 const randomNum2 = Math.floor(Math.random() * (30 - 25) + 25).toFixed(2);
 ```
+
+{{ site.data.element.license }}

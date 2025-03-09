@@ -17,3 +17,5 @@
 <img src="assets/postman_win3.png">
 
 </center>
+
+{{ site.data.element.license }}

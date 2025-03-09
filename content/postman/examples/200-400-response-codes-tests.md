@@ -135,3 +135,5 @@ Scenariusz działania systemu:
    ]
 }
 ```
+
+{{ site.data.element.license }}

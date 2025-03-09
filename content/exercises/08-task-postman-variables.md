@@ -7,3 +7,5 @@
 > 💡[Postman code templates](../code-templates/postman-code-templates.md)
 
 ### ⏭️ Następny rozdział: [Task 09 - Postman code Snippets](09-task-postman-code-snippets.md)
+
+{{ site.data.element.license }}

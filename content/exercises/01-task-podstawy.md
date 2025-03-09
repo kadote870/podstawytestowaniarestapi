@@ -42,3 +42,5 @@
   a 500
 
 ### ⏭️ Następny rozdział: [Task 02 - Import i eksport kolekcji](02-task-import-export-kolekcji.md)
+
+{{ site.data.element.license }}

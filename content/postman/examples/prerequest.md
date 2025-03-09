@@ -108,3 +108,5 @@
 	]
 }
 ```
+
+{{ site.data.element.license }}

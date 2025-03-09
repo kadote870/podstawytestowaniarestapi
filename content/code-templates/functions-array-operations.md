@@ -59,3 +59,5 @@ const specificObjectFromArray = find_object_in_array(
 );
 console.log(specificObjectFromArray);
 ```
+
+{{ site.data.element.license }}

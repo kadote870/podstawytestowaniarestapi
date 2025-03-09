@@ -91,3 +91,5 @@
   </a>
 
 ### ⏭️ Następny rozdział: [02 - Model OSI](02-model-osi.md)
+
+{{ site.data.element.license }}

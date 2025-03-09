@@ -71,3 +71,5 @@ Response: 201 OK
   }
 ]
 ```
+
+{{ site.data.element.license }}

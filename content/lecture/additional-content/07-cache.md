@@ -41,3 +41,5 @@ Content-Type: application/json
 * Przeglądarka wykonuje nowe zapytanie i pobiera dane 🔄
 
 ### ⏭️ Powrót do: [07 - REST API 🌐](../07-rest-api.md)
+
+{{ site.data.element.license }}

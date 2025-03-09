@@ -105,3 +105,5 @@ pm.test("Your test name", function () {
 ```
 
 ### ⏭️ [Powrót do strony głównej](../../README.md)
+
+{{ site.data.element.license }}

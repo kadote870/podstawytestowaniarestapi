@@ -9,3 +9,5 @@
 > * Zwróć uwagę na limit uruchomień **collection runner**
 
 ### ⏭️ Następny rozdział: [Task 11 - Newman CLI](11-task-newman-cli.md)
+
+{{ site.data.element.license }}

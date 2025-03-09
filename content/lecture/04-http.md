@@ -122,3 +122,5 @@ aplikacji internetowych i obsługę dużego ruchu.
 👉 [In Introduction to HTTP Basics](https://personal.ntu.edu.sg/ehchua/programming/webprogramming/HTTP_Basics.html)
 
 ### ⏭️ Następny rozdział: [05 - Od prostych do złożonych usług internetowych](05-od-prostych-do-zlozonych-uslug-internetowych.md)
+
+{{ site.data.element.license }}

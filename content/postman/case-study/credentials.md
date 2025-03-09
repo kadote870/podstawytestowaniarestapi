@@ -96,3 +96,5 @@ Pass: Pass#2
 |                               | correct credentials (Tester1) | correct credentials (Tester2) |
 |-------------------------------|-------------------------------|-------------------------------|
 | orderID (Tester1)             | 200                           | 404                           |
+
+{{ site.data.element.license }}

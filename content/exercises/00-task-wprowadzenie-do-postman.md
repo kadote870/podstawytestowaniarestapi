@@ -27,3 +27,5 @@
   🤦🤦🤦 xD
 
 ### ⏭️ Następny rozdział: [01 - Task 1 - Podstawy](01-task-podstawy.md)
+
+{{ site.data.element.license }}

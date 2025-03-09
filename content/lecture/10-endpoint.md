@@ -36,3 +36,5 @@ mailto:jakas-osoba@wikipedia.org
 </a>
 
 ### ⏭️ Następny rozdział: [11 - REST API – komunikacja przez HTTP](11-rest-api-http-komunikacja.md)
+
+{{ site.data.element.license }}

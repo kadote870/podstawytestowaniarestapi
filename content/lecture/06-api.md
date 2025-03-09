@@ -30,3 +30,5 @@
 👉 [Czym jest API i jakie są jego rodzaje?](https://miroslawmamczur.pl/czym-jest-api-i-jakie-sa-jego-rodzaje/)
 
 ### ⏭️ Następny rozdział: [07 - REST API 🌐](07-rest-api.md)
+
+{{ site.data.element.license }}

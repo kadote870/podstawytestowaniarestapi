@@ -42,3 +42,5 @@ Quota to angielskie słowo oznaczające **limit, przydział lub kontyngent**. Mo
 * Jeśli więc serwer przerywa pojedyncze żądanie z powodu długiego przetwarzania, to jest to **timeout**, a nie quota czasowa.
 
 ### ⏭️ Powrót do: [05 - Od prostych do złożonych usług internetowych](../05-od-prostych-do-zlozonych-uslug-internetowych.md)
+
+{{ site.data.element.license }}

@@ -36,3 +36,5 @@
 ```
 
 ### ⏭️ Następny rozdział: [12 - Arrays & Objects (Tablice i Obiekty)](12-arrays-and-objects.md)
+
+{{ site.data.element.license }}

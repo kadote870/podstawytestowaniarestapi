@@ -45,3 +45,5 @@ zasobu
 </a>
 
 ### ⏭️ Następny rozdział: [09 - Typy uwierzytelniania w protokole HTTP](09-typy-uwierzytelniania.md)
+
+{{ site.data.element.license }}

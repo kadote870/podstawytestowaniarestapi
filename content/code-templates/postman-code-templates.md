@@ -14,8 +14,8 @@ console.log(response)
 ```js
 const response = pm.response.json()
 const obj = {
-  id: response.id,
-  name: response.name
+    id: response.id,
+    name: response.name
 }
 console.log(obj)
 ```
@@ -32,13 +32,13 @@ pm.globals.set("userId", userId)
 
 ```js
 pm.test("Status code is 200", function () {
-  pm.response.to.have.status(200);
+    pm.response.to.have.status(200);
 });
 ```
 
 ```js
 pm.test("Your test name", function () {
-  pm.expect(response.value).to.eql(100);
+    pm.expect(response.value).to.eql(100);
 });
 ```
 
@@ -46,9 +46,9 @@ pm.test("Your test name", function () {
 const exampleDatas = []
 
 for (const element of response) {
-  if (element.value === condition) {
-    exampleDatas.push(element);
-  }
+    if (element.value === condition) {
+        exampleDatas.push(element);
+    }
 }
 
 console.log(objects);
@@ -92,6 +92,7 @@ console.log(b)
 ```
 
 ### Names
+
 ```json
 // const randomFirstName = pm.variables.replaceIn('{{$randomFirstName}}');
 const randomLastName = pm.variables.replaceIn('{{$randomLastName}}');
@@ -107,6 +108,7 @@ const randomCountryCode = pm.variables.replaceIn('{{$randomCountryCode}}');
 const randomLatitude = pm.variables.replaceIn('{{$randomLatitude}}');
 const randomLongitude = pm.variables.replaceIn('{{$randomLongitude}}');
 ```
+
 ### Data
 
 * const uuidV4 = pm.variables.replaceIn('{{$guid}}');
@@ -184,18 +186,20 @@ const randomLongitude = pm.variables.replaceIn('{{$randomLongitude}}');
 
 ### Databases
 
-
 * const randomDatabaseColumn = pm.variables.replaceIn('{{$randomDatabaseColumn}}'); // updatedAt, token, group
 * const randomDatabaseType = pm.variables.replaceIn('{{$randomDatabaseType}}'); // A random database column name
-* const randomDatabaseCollation = pm.variables.replaceIn('{{$randomDatabaseCollation}}'); //  cp1250_bin, utf8_general_ci, cp1250_general_ci
+* const randomDatabaseCollation = pm.variables.replaceIn('{{$randomDatabaseCollation}}'); // cp1250_bin,
+  utf8_general_ci, cp1250_general_ci
 * const randomDatabaseEngine = pm.variables.replaceIn('{{$randomDatabaseEngine}}'); // MyISAM, InnoDB, Memory
-
 
 ### Dates
 
-* const randomDateFuture = pm.variables.replaceIn('{{$randomDateFuture}}'); // Tue Mar 17 2020 13:11:50 GMT+0530 (India Standard Time),
-* const randomDatePast = pm.variables.replaceIn('{{$randomDatePast}}'); // Sat Mar 02 2019 09:09:26 GMT+0530 (India Standard Time),
-* const randomDateRecent = pm.variables.replaceIn('{{$randomDateRecent}}'); // Tue Jul 09 2019 23:12:37 GMT+0530 (India Standard Time),
+* const randomDateFuture = pm.variables.replaceIn('{{$randomDateFuture}}'); // Tue Mar 17 2020 13:11:50 GMT+0530 (India
+  Standard Time),
+* const randomDatePast = pm.variables.replaceIn('{{$randomDatePast}}'); // Sat Mar 02 2019 09:09:26 GMT+0530 (India
+  Standard Time),
+* const randomDateRecent = pm.variables.replaceIn('{{$randomDateRecent}}'); // Tue Jul 09 2019 23:12:37 GMT+0530 (India
+  Standard Time),
 * const randomWeekday = pm.variables.replaceIn('{{$randomWeekday}}'); // Thursday, Friday, Monday
 * const randomMonth = pm.variables.replaceIn('{{$randomMonth}}'); // February, May, January
 
@@ -204,30 +208,37 @@ const randomLongitude = pm.variables.replaceIn('{{$randomLongitude}}');
 * const randomDomainName = pm.variables.replaceIn('{{$randomDomainName}}'); // gracie.biz, armando.biz, trevor.info
 * const randomDomainSuffix = pm.variables.replaceIn('{{$randomDomainSuffix}}'); // org, net, com
 * const randomDomainWord = pm.variables.replaceIn('{{$randomDomainWord}}'); // gwen, jaden, donnell
-* const randomEmail = pm.variables.replaceIn('{{$randomEmail}}'); // Pablo62@gmail.com, Ruthe42@hotmail.com, Iva.Kovacek61@hotmail.com
-* const randomExampleEmail = pm.variables.replaceIn('{{$randomExampleEmail}}'); // Talon28@example.com, Quinten_Kerluke45@example.net, Casey81@example.net
+* const randomEmail = pm.variables.replaceIn('{{$randomEmail}}'); // Pablo62@gmail.com, Ruthe42@hotmail.com,
+  Iva.Kovacek61@hotmail.com
+* const randomExampleEmail = pm.variables.replaceIn('{{$randomExampleEmail}}'); // Talon28@example.com,
+  Quinten_Kerluke45@example.net, Casey81@example.net
 * const randomUserName = pm.variables.replaceIn('{{$randomUserName}}'); // Jarrell.Gutkowski, Lottie.Smitham24, Alia99
-* const randomUrl = pm.variables.replaceIn('{{$randomUrl}}'); // https://anais.net, https://tristin.net, http://jakob.name
+* const randomUrl = pm.variables.replaceIn('{{$
+  randomUrl}}'); // https://anais.net, https://tristin.net, http://jakob.name
 
 ### Files and directories
 
-* const randomFileName = pm.variables.replaceIn('{{$randomFileName}}'); // neural_sri_lanka_rupee_gloves.gdoc, plastic_awesome_garden.tif,
+* const randomFileName = pm.variables.replaceIn('{{$randomFileName}}'); // neural_sri_lanka_rupee_gloves.gdoc,
+  plastic_awesome_garden.tif,
 * const randomFileType = pm.variables.replaceIn('{{$randomFileType}}'); //model, application, video
 * const randomFileExt = pm.variables.replaceIn('{{$randomFileExt}}'); // war, book, fsc
-* const randomCommonFileName = pm.variables.replaceIn('{{$randomCommonFileName}}'); // well_modulated.mpg4, rustic_plastic_tuna.gif,
+* const randomCommonFileName = pm.variables.replaceIn('{{$randomCommonFileName}}'); // well_modulated.mpg4,
+  rustic_plastic_tuna.gif,
 * const randomCommonFileType = pm.variables.replaceIn('{{$randomCommonFileType}}'); // application, audio
 * const randomCommonFileExt = pm.variables.replaceIn('{{$randomCommonFileExt}}'); // m2v, wav, png
 * const randomFilePath = pm.variables.replaceIn('{{$randomFilePath}}'); // /home/programming_chicken.cpio,
 * const randomDirectoryPath = pm.variables.replaceIn('{{$randomDirectoryPath}}'); // /usr/bin, /root, /usr/local/bin
-* const randomMimeType = pm.variables.replaceIn('{{$randomMimeType}}'); // audio/vnd.vmx.cvsd, application/vnd.groove-identity-message
+* const randomMimeType = pm.variables.replaceIn('{{$randomMimeType}}'); // audio/vnd.vmx.cvsd,
+  application/vnd.groove-identity-message
 
 ### Stores
 
-* const randomPrice = pm.variables.replaceIn('{{$randomPrice}}'); // 0.00 and 1000.00	531.55, 488.76, 511.56
+* const randomPrice = pm.variables.replaceIn('{{$randomPrice}}'); // 0.00 and 1000.00 531.55, 488.76, 511.56
 * const randomProduct = pm.variables.replaceIn('{{$randomProduct}}'); // Towels, Pizza, Pants
 * const randomProductAdjective = pm.variables.replaceIn('{{$randomProductAdjective}}'); // Unbranded, Incredible, Tasty
 * const randomProductMaterial = pm.variables.replaceIn('{{$randomProductMaterial}}'); // Steel, Plastic, Frozen
-* const randomProductName = pm.variables.replaceIn('{{$randomProductName}}'); // Handmade Concrete Tuna, Refined Rubber Hat
+* const randomProductName = pm.variables.replaceIn('{{$randomProductName}}'); // Handmade Concrete Tuna, Refined Rubber
+  Hat
 * const randomDepartment = pm.variables.replaceIn('{{$randomDepartment}}'); // Tools, Movies, Electronics
 
 ### Grammar
@@ -237,7 +248,9 @@ const randomLongitude = pm.variables.replaceIn('{{$randomLongitude}}');
 * const randomIngverb = pm.variables.replaceIn('{{$randomIngverb}}'); // synthesizing, navigating, backing up
 * const randomAdjective = pm.variables.replaceIn('{{$randomAdjective}}'); // auxiliary, multi-byte, back-end
 * const randomWord = pm.variables.replaceIn('{{$randomWord}}'); // withdrawal, infrastructures, IB
-* const randomWords = pm.variables.replaceIn('{{$randomWords}}'); // A random phrase	You can't program the monitor without navigating the mobile XML program!, overriding the capacitor won't do anything, we need to compress the optical SMS transmitter!, I'll generate the virtual AI program, that should microchip the RAM monitor!
+* const randomWords = pm.variables.replaceIn('{{$randomWords}}'); // A random phrase You can't program the monitor
+  without navigating the mobile XML program!, overriding the capacitor won't do anything, we need to compress the
+  optical SMS transmitter!, I'll generate the virtual AI program, that should microchip the RAM monitor!
 
 ### Lorem ipsum
 
@@ -251,4 +264,9 @@ const randomLongitude = pm.variables.replaceIn('{{$randomLongitude}}');
 
 * const randomLoremText = pm.variables.replaceIn('{{$randomLoremText}}');
 * const randomLoremSlug = pm.variables.replaceIn('{{$randomLoremSlug}}');
-* const randomLoremLines = pm.variables.replaceIn('{{$randomLoremLines}}');
+
+```js 
+const randomLoremLines = pm.variables.replaceIn('{{ site.data.postman.randomLoremLines }}');
+```
+
+{{ site.data.element.license }}
