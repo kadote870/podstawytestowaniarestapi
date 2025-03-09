@@ -109,28 +109,6 @@ const randomLatitude = pm.variables.replaceIn('{{ site.data.postman.randomLatitu
 const randomLongitude = pm.variables.replaceIn('{{ site.data.postman.randomLongitude }}');
 ```
 
-### Data
-
-```js 
-const uuidV4 = pm.variables.replaceIn('{{ site.data.postman.guid }}');
-const timestamp = pm.variables.replaceIn('{{ site.data.postman.timestamp }}');
-const soTimestamp = pm.variables.replaceIn('{{ site.data.postman.isoTimestamp }}');
-const randomUUID = pm.variables.replaceIn('{{ site.data.postman.randomUUID }}');
-const randomAlphaNumeric = pm.variables.replaceIn('{{ site.data.postman.randomAlphaNumeric }}');
-const randomBoolean = pm.variables.replaceIn('{{ site.data.postman.randomBoolean }}');
-const randomInt = pm.variables.replaceIn('{{ site.data.postman.randomInt }}'); // 1-1000
-const randomColor = pm.variables.replaceIn('{{ site.data.postman.randomColor }}');
-const randomHexColor = pm.variables.replaceIn('{{ site.data.postman.randomHexColor }}'); // "#47594a", "#431e48", "#106f21"
-const randomAbbreviation = pm.variables.replaceIn('{{ site.data.postman.randomAbbreviation }}'); // SQL, PCI, JSON
-const randomIP = pm.variables.replaceIn('{{ site.data.postman.randomIP }}'); // 241.102.234.100, 216.7.27.38
-const randomIPV6 = pm.variables.replaceIn('{{ site.data.postman.randomIPV6 }}'); // dbe2:7ae6:119b:c161:1560:6dda:3a9b:90a9
-const randomMACAddress = pm.variables.replaceIn('{{ site.data.postman.randomMACAddress }}'); // 1f:6e:db:3d:ed:fa
-const randomPassword = pm.variables.replaceIn('{{ site.data.postman.randomPassword }}'); // t9iXe7COoDKv8k3, QAzNFQtvR9cg2rq
-const randomUserAgent = pm.variables.replaceIn('{{ site.data.postman.randomUserAgent }}'); // Mozilla/5.0 (Macintosh; U; Intel Mac OS X10.9.8; rv:15.6) Gecko/20100101 Firefox/15.6.6
-const randomProtocol = pm.variables.replaceIn('{{ site.data.postman.randomProtocol }}'); // "http", "https"
-const randomSemver = pm.variables.replaceIn('{{ site.data.postman.randomSemver }}'); // version number 7.0.5, 2.5.8, 6.4.9
-```
-
 ### Images
 
 ```js 
