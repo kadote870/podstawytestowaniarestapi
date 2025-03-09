@@ -62,8 +62,8 @@ pm.globals.set("variable_key", someVariable);
 ```
 
 ```js
-const a = pm.variables.replaceIn('{{$randomFirstName}}');
-const b = pm.variables.replaceIn('{{$randomFirstName}} {{$randomLastName}}');
+const a = pm.variables.replaceIn('{{ site.data.postman.randomFirstName }}');
+const b = pm.variables.replaceIn('{{ site.data.postman.randomFirstName }} {{ site.data.postman.randomLastName }}');
 
 console.log(a)
 console.log(b)
@@ -72,9 +72,9 @@ console.log(b)
 ### Data
 
 ```js
-const uuidV4 = pm.variables.replaceIn("{{ site.data.postman.guid }}");
+const uuidV4 = pm.variables.replaceIn("{{ site.data.postman.uuidV4 }}");
 const timestamp = pm.variables.replaceIn("{{ site.data.postman.timestamp }}");
-const soTimestamp = pm.variables.replaceIn("{{ site.data.postman.isoTimestamp }}");
+const isoTimestamp = pm.variables.replaceIn("{{ site.data.postman.isoTimestamp }}");
 const randomUUID = pm.variables.replaceIn("{{ site.data.postman.randomUUID }}");
 const randomAlphaNumeric = pm.variables.replaceIn("{{ site.data.postman.randomAlphaNumeric }}");
 const randomBoolean = pm.variables.replaceIn('{{ site.data.postman.randomBoolean }}');
