@@ -25,8 +25,13 @@ pm.globals.set("key", value)
 ```
 
 ```js
+// Zapisuje do zmiennej odpowiedź z API
 const response = pm.response.json();
+
+// Zapisuje do zmiennej wartość klucza 'id' przechowywanego w obiekcie 'user'
 const userId = response.user.id
+
+// Zapisuje zmienną user do zmiennej globalnej postman
 pm.globals.set("userId", userId)
 ```
 
@@ -66,7 +71,9 @@ const a = pm.variables.replaceIn('{{ site.data.postman.randomFirstName }}');
 const b = pm.variables.replaceIn('{{ site.data.postman.randomFirstName }} {{ site.data.postman.randomLastName }}');
 
 console.log(a)
+// Wynik: Kalle
 console.log(b)
+// Wynik: Kalle Svensson
 ```
 
 ### Data
