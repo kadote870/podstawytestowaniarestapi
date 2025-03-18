@@ -72,6 +72,8 @@
 * [Case study: Add test params to API response](content/postman/case-study/add-test-params-to-response.md)
 * [Case study: Simple credential test](content/postman/case-study/credentials.md)
 * [Case study: Special Chars](content/postman/case-study/special-chars.md)
+* [Case study: 200-400 Response codes tests - pesticide paradox](content/postman/case-study/200-400-response-codes-tests.md)
+* [Case study: Different env - Different tests](content/postman/case-study/different-env-different-tests.md)
 
 ## 📋 Trello
 

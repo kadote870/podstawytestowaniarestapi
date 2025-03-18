@@ -1,4 +1,4 @@
-# Zestawy testów zależnie od kodu HTTP
+# Case study: Zestawy testów zależnie od kodu HTTP - Paradoks pestycydów
 
 Scenariusz działania systemu:
 
