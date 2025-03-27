@@ -11,7 +11,7 @@
 * Do komunikacji pomiędzy klientem a serwerem służy HTTP
 * Z czasem strony internetowe zaczęły być coraz bardziej złożone i skomplikowane (dużo danych)
 * Dawniej przepustowość Internetu była tysiące razy niższa niż na współczesnych światłowodach.
-* Dodatkowo istnieje coś takiego jak [**Quota**](additional-content/05-quota.md) (limit, przydział, kontyngent)
+* Dodatkowo istnieje coś takiego jak [**Quota**](additional-content/05-01-quota.md) (limit, przydział, kontyngent)
 
 * Następnym krokiem w ewolucji Internetu było opracowywanie rozwiązań, których celem było „odchudzenie” transferu
   potrzebnego do korzystania z konkretnej strony internetowej
@@ -27,7 +27,8 @@
 
 ## 🔍 Warto zobaczyć
 
-👉 **Film:** [Frankenstream](https://kadote870.github.io/my_little_test_helpers/content/movie/frankenstream.html)
+* **Film:** [Frankenstream](https://kadote870.github.io/my_little_test_helpers/content/movie/frankenstream.html)
+* [Test smell: A parasitic energy consumer in software testing](additional-content/05-02-test-smell-a-parasitic-energy-consumer-in-software-testing.md)
 
 ### ⏭️ Następny rozdział: [06 - API](06-api.md)
 
